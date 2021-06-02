@@ -1,0 +1,826 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3431776515,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1556440406,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109988,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192824,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27806,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29825,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7473,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1542,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501043,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18369715,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1236055,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89563397,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18900777,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2845530,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,822021,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264742,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4596408,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322632,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42263803,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64517656,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93515,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119802,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47604062,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18667532,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49398,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48687,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,670254,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7689150,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,796835,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,579953,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23412,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6969,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289549,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1620576,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83633197,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24449581,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24809101,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3136843,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8579,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202491,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151461718,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14932705,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74611,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68848,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30688,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11328,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,341700,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5009910,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,605561,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5087333,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15714952,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40468599,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5530114,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14750,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132181,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184977,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4295,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9352,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14645719,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1877335,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46169176,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62906365,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27342,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,809530,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,858198,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127928286,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83817614,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77131,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2277985,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9358,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65814,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2708194,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2095722,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2991889,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,581699,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8958,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15450,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172062850,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14177086,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5603242,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14335575,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5962,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101640716,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2489133,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15532381,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50684516,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14759651,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6751796,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4780225,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,469522,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40128032,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126108973,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323804,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17927,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,316186439,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65438129,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6950704,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,584311,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,475299,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3210444,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460928,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43896,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228122970,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1527053,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6594132,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2325891,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334967,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238445,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1646,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1967781,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26882,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124203,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157567,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207607,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57814855,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2776534,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12396,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115192,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1182075,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92011,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43771,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314201,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1471033,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121218951,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2665840,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37623,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14676,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5146407,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1983057,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15154223,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7586291,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,198362,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,770951,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180696,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5441787,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67414648,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32485345,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167083,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9338709,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2425823,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,433544,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2667,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305133,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59523,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59160,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6626102,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5420220,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,582,Fmr Pacific Isds,PCI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4107,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87325018,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23015007,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,721535,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,781034,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165680,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1032578,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,854332,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1541044,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1315728,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14149367,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4774359,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108827,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1142077,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6732964,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,822026,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10165582,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3234605,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11237,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170191980,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1765728,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4544,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25103,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76379,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213135875,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5455037,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202195470,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65760774,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5334410,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,952242,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9068,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,958179,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45351,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64522,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,720,Fmr Dem. Yemen,YMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1156663,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12785192,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7757082,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21731106,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8517983,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11518024,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16863369,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30022235,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1682659,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6687933,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6672166,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96093725,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1605341,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,895793,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249995978,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9871857,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2256372,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,795240,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12861446,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20360539,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7321,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57453,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,894235,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27949956,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54180263,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1928287,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17404469,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127459885,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96232153,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333369,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10328040,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197182102,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,492947271,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12877,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1656535,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1278250,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1974264,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6279,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,879,"Western Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27632,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,879,"Western Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21192,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460922,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3177044,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5486084,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6181,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514923,,,0
+H0,1990,1990,1990,0,0,1,Import,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230790,,,0
+H0,1990,1990,1990,0,0,2,Export,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18988,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5438407896,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3407241163,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3991220,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65820,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15783,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18009,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1736024,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82780654,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15089415,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8194299,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6482869,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23281,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2091,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152821,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47992,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18740,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21437503,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125106429,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7291439,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34929,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13466859,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11548930,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,80,Br. Antarctic Terr.,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11600,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5111,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19103,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1572916,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25740964,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4024046,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15146,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42051,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2625956,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47969239,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64746355,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6208265,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14048731,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,528813,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472024893,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47554007,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104831,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,315219,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201727,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82624,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556188,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246861,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1169,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,672616,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168078,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22538182,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37039471,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,661,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11015,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1351397,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216326,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53056,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5105097,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68866975,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200080207,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36375,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132996063,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258544477,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4113392,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2004274,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2240,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8258504,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,895828,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21333,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102318,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260913,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,619241008,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117421003,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19006,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1701968,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51645,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91733226,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5036166,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5527468,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29768770,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89257,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5451,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2927173,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2829,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77585629,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193083473,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5950848,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72232,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336085610,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111117687,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2762193,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32308,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8173234,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,413814,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273411,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,462362118,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25967800,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1424477,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,458213,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410286,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66897,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284212,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,427022,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43809054,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7034494,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125335,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61500,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29893,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1223,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3090,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4288587,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244972401,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12039288,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33241,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1476034,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,867860,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226454,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1172323,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,638048,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1123510,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28689439,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115143064,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15986380,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2547741,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,451430,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,922040,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169713,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151846,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71953,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4927833,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15202518,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19761,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215328580,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35267645,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170073,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1187172,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69479,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,526072,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,361032,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8938198,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7854460,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,500390,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2854272,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493407,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2131007,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47471205,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29277897,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36111944,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3470698,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105507,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8742,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,615174176,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26983224,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423376842,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60378898,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25648018,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23520,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16488,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6670228,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1075094,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18072503,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43102707,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137543,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30093227,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14550198,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39758583,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23545440,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6718600,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26902156,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88749520,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12672451,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1835482,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2074002,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16725543,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20072183,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,513749,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7042,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15469240,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368718,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4021,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1876115,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17877069,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82490780,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279907813,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7877,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2496670,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,291313543,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1204827044,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1260,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5589502,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1377350,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244037,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85418,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,712542358,,,0
+H0,1995,1995,1995,0,0,2,Export,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12840,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153388335104,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168153612288,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17093856,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5334953,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8309482,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11854898,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,475482464,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,313615648,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69299,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5417571,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158212592,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55596824,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3629,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330046,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2344443,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8541537,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251818352,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219338384,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,349505120,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,595990848,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,870487296,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1671190528,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11083190,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1478849,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9107041,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22428022,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128209616,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23716780,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25672232,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14631372,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,419823,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5692701,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136151,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2307925,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374238,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378595,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14235249,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5001184,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70208,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6967400,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,762150400,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,969428928,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15403,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204652,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,606365,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129886,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26506446,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65113,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,546429,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4755001,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89627896,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94035376,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7701970,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10717714,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81350368,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33610160,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34326260,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51973424,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2076805,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1887999,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45786996,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74183312,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1026405888,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,482991328,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15219,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9778371,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24260140,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13808166,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91152280,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5521488,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182682432,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139717200,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7326597,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18803876,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131762240,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178824224,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1325529344,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,903067200,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3712641,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,406732,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122693400,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96181976,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2966466,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,436226496,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22249108,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,692216384,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190504128,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149915,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34091,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28592456,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13939112,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42726832,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106041672,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6462618,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69053144,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40668824,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74809392,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,298103136,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,553832000,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5991898,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21237072,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,997140992,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1535138816,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,307155,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37435792,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11179335,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73938144,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46860852,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4962581,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8104024,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79464,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2230708,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1825177,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38072840,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9034458,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35548856,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43709904,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450090,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,512840,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79369,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402042,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2594785,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1243117312,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,826451008,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23486801920,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29229836288,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120689,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12122069,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276275,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14466867,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19383,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6538422,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16403184,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28234664,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28129,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5390776,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121878024,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14548082,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32001771520,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34715734016,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66731232,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42716208,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6917520,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1646527,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3461,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192462928,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,872522624,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5835,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225008,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25598,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81656,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230843,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26866960,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20767622,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24522136,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102884728,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45714200,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5407863,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4455943,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9092280,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10306279,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9923850,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8964601,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344159168,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1179108992,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,396974144,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421829120,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36157776,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32755768,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,407386720,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,328307200,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65504804,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251795424,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432368,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2221424,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1745845632,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612193344,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1085787520,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2838702336,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6544416768,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8532182528,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201625936,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105962616,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2207575,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18384164,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3945481728,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2178923264,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66555056,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12860254,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4528642,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68268064,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30179632,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78901000,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7333575,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15649516,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,352219936,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493616288,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24655812,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68604792,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3942680,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2240219,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2383590,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,891793,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17631964,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218027440,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58726432,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53440404,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,759445760,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5915848,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5067770,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169594688,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45139816,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51251448,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12306550,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3433687,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11715469,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22040820,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5361416,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2255056,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,495755904,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,313335616,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125494,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1678298,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19806918,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30599152,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74665440,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51548600,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415755,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24916308,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40063024,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48438584,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58852532,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31597464,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355115040,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183651168,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,393867680,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,722961344,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3140884,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1040021,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5037636,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7942397,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,291783,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209706560,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,316227200,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3048046,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5493757,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1229856,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40474408,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23770,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7043620,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3586971,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27160397824,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21499377664,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103937232,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8030660,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,830140,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,914133,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4711054,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11122255,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45503,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148684832,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91095200,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6473369,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5336245,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37452,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21863892,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55230120,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132592584,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1134632832,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,663383808,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13861,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12364,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10739,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2474890,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136616256,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109407056,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15817638,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26729554,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7773076,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3359521,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43235444,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10274934,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86790808,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71202464,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125047296,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130966488,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,571637952,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,926552256,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,708007552,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1178074112,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12925,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3003304,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,789722,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38505336,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156449,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52091952,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150539488,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145374304,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1346598784,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1041796992,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1032886,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19276740,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2712,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20238,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152243,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138044,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,771787,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32234,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230978,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189525,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,891505,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1556167,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99388488,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,555701632,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10544677,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70014720,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,468206,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1090663,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90591888,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7877828,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1117082112,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2580565504,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240624528,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,581855296,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79280824,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160107936,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85163328,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53784036,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82916272,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142938848,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8432,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4609502,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,819059456,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,549490368,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27365838,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25298490,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2694080256,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4680745472,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4576230,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27315216,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126398,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11845655,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4043348736,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2297196032,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2154608640,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2973008128,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5946177,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171515152,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3315616,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1489992,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,681106624,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,824055232,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27351180,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28873920,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36724,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1806846,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11283576,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75834424,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284140736,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365528320,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,373947616,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,381347008,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,922419840,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5523021,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2922435,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3779108,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6733,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46324192,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16242628,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64118164,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138219472,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24426976,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30527844,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118722168,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,286137696,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13540770816,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13179723776,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9836485,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39331496,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171337360,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,629097792,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1563727232,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9544727552,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8576909824,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6248825344,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,528130,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273758,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14959749,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8932620,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22667824,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28647632,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14031191,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115341640,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124852528,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87084,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,879,"Western Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1122456,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183173,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,624829,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37989040,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1066778,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14755062,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77935008,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5566511,,,0
+H0,1995,1995,1995,0,0,1,Import,58,Belgium-Luxembourg,BEL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,922919,,,0
+H0,1995,1995,1995,0,0,2,Export,58,Belgium-Luxembourg,BEL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7060439,,,0

@@ -1,0 +1,317 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10782432256,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9356680192,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36687,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2708,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44182,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66679936,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14759563,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31872788,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219554528,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116255264,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14552626,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3082344,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3002,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1910059,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2649726,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23863,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247707920,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367121056,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4852,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11143,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135981376,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225246016,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5008,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24876720,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62830424,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1145340,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9022696,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2260398,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,452629216,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,220520944,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,647378,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4485,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,466614,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,925145,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41354,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2679013,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370396,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,252769168,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8002584,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12088380,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1507,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1082518,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1997066,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3954769,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11462769,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49812672,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1339821,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27183,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3438564,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28019072,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67801,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18844688,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28333,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11804359,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10205591,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,851620,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170928,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59625104,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13761156,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2686828800,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1315629312,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1010260,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11105717,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2325,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,737266624,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171457424,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,724342,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30853344,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35628176,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8391894,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1700908,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214416,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7239,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4895696,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26197120,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19824,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116651456,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,908768,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1392726,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5076,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18395876,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1039005312,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2098695040,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11626294,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58205,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365807872,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66616952,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14352227,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6907655,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18913,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3050411,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46738216,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121948120,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263551,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1982692,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3030999,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3590395,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11161,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13820112,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1992799,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2041372,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7033797,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13182,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,578205,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14794573,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53901,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27288,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24296,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,583,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2119,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44996808,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2476404,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19768590,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60531540,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31606146,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29256,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6154,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51480672,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81169168,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51698,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144625728,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,972448128,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6118,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77932464,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,317184,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,300092,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11848,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145834,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32364052,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15949911,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2266788,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261835,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15915,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13257504,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,999177,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,588364,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7994528,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43353752,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32753820,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30605480,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142421664,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227690,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126387,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20448,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64374440,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9065704,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75731152,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132432480,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96265,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16049514,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134483,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,536649,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120474,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187050,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16199276,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2883626,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6541808,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46008300,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45017048,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1331879,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5672944,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3279,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,923387968,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,625057024,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134657,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1643292,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81603232,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4491918,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87112888,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110091232,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31108260,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9548,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12698078,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15877,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247516,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6237332,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514893,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142789776,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108295456,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305008416,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314394112,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92563,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3887564,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134066,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58792880,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5442769,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155589488,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204014976,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1417904640,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1563237248,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2366,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111376,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1557107,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7242,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21480612,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8924288,,,0
+H0,1995,1995,1995,0,0,1,Import,12,Algeria,DZA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,889349,,,0
+H0,1995,1995,1995,0,0,2,Export,12,Algeria,DZA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51410,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1025480576,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47803140,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11060,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1092,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18984,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49535,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27880,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4066682,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1359,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11789,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,714,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6892766,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,398583,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,405721,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9518,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4328,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18221,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8596,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395162,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25753,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23534,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5549,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13077396,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171551,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136282,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20390,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21483,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1042427,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5832,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,668735,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5815,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2347235,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8584,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161508,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121911,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1004587,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,320439264,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22909840,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4629,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49539184,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,723405,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112019,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19674,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2598388,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99298,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81832,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55181,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1203934,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233689,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2879086,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202813,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37359312,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100127,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35006908,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6074,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68747,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5578434,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4312,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31032,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6441514,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10462,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34280,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77075,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,361749,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3765064,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3905,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2421,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238230,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16869,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15268971,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390633,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3049,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67086,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,919,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133037,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115926,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69751,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8108,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24059,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,648931,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92859,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2535813,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,382165,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9133,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204065,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233177,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1029,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15281,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,474106,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2790229,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46789,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28013,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142168,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139293,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5815,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75306,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3238,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,408499200,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22413140,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1603476,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17125120,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4054,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1180537,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4307,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1400160,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1347631,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2129,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17451,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108137,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11064,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32545200,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251647,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40975248,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3206,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3883,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26537,,,0
+H0,1995,1995,1995,0,0,1,Import,20,Andorra,AND,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428262,,,0
+H0,1995,1995,1995,0,0,2,Export,20,Andorra,AND,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45043,,,0

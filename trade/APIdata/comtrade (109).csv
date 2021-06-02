@@ -1,0 +1,1103 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33371353753,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23068718713,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64735210,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2679,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3875091,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126781,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97335,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2642780,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,445553,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,829939,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11737078,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121018896,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,525895,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,560954861,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,373024936,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,373890,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92247785,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63544399,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127054,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,220181,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,795770,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2867691,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20092404,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10724,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1004542,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52822763,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17396,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1413,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1100850,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,522105633,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348452480,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164300,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8996,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,687617,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,586,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62214,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36654,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,347215007,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6924879,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5956825,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,319373,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76563,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188278,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1265,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177854621,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30590164,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10162,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20774604,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6264934,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132002010,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41962646,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17589,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,404207,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,511896,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11599739,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,848494,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1812,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,741643,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5993753,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2251,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,373057733,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305972631,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113015,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36485,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2971,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1570,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121926,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30280740,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69984207,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19762,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4554349,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4134,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42455633,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7085484,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1106791983,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266529787,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1081454,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11959694,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1241158,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3496,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339399,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19339529,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3343666,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14362209,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47179,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140417,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4801202,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228526,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25801,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28913286,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1630299,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10815173,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77500968,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3939208,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2459118,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34334449,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122609755,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104973112,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60737,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1011611,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,275026,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3182,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2780368,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5398099,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233147,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175872,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14009,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8393,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5767,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1821,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9959905,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98517362,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60295032,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,808006669,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,562875387,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289938,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33270,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1330552,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23233,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9202334,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161152,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11043059,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16046,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7782231,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82421586,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8692025,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1622423104,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1188278322,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1529832,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2741653,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9507384,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145630,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20082401,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31602661,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131168,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292806,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91965,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,315941,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12934,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1097050,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,321741,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,399231,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363067,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363701,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415730020,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1037801977,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12646261,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44900883,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7556207,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5684,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,517131,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,774288,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197966823,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154484859,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3889805,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103733979,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119880698,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60344889,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50280794,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,938,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24247952,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12176294,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3898,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131088271,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63478326,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48554,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,417555204,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421085003,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,515949,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32230540,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11098950,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36011,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2980708,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10143528430,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3967976614,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6085723,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23407935,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25284035,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29543,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9934881,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22575201,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27393204,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12353937,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1045989863,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394828976,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,989316,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113518039,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78272103,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,885,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44383674,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65748086,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185617,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2033,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25609320,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59630,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102730,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3711259,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8709136,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38701774,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,381263,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1782666,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,896202,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7743278,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2234,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44580,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1122305009,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,575002067,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1857224,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22015958,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5751417,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7639915,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1193183,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61634,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4893979,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323059,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8683967,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177103,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14740495,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62014109,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81788920,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1728310531,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374395656,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3082038,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11716,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50718,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199051,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1997804,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4460051,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67386776,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8053,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128066146,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15481691,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,832070,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41244,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154303,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9613504,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242034727,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1114228117,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1043065,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,896285,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16180603,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2452,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109090771,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39638737,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24340,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,268158,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6607920,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200039,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607602,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2258877,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86722697,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6439542,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76233630,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35029096,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29102,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,582,Fmr Pacific Isds,PCI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3534417,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82786586,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79226384,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,650571,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178042,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151885118,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,546,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1912494,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8743344,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1077545,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,280413,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1169163,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17118299,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108741662,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167683248,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,575523,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109861123,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133756105,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72572,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13154139,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50601119,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27515,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2662409,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,982,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61810820,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5375826,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12660,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7415971,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29305891,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4103963,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188701,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,231246,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111485,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,411398935,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322411195,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68868,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4589,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38719281,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46336889,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,737459,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1737460,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1112851,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,543913660,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63360993,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192470,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2476334904,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1695237256,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15792658,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93921274,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18224801,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165580,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17535850,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36664999,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1498236,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95486,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1953440,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,443789,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,720,Fmr Dem. Yemen,YMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4783263,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,720,Fmr Dem. Yemen,YMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4432288,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131413934,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196660539,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116884,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59247481,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,793838,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1203418,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290089728,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124701206,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218760,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,632900147,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290895655,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,632919,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7895555,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36833897,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1154416,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38603018,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3297,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,537689,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3734,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,268490,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305308188,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,324524077,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81687,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10478234,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,706727,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56322973,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19466985,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340333,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179676956,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103484552,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1610723,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,610944,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46152746,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16019,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,906166933,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,935647065,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1428799,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2536511,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14932769,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3605226788,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5240024410,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1884467,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5276757,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3465061,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,826574,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237786,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58436841,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1983427,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25868,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,876517,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7622561,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43522594,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119022,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25637459,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21154744,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88694468,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423919,,,0
+H0,1990,1990,1990,0,0,1,Import,764,Thailand,THA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192986155,,,0
+H0,1990,1990,1990,0,0,2,Export,764,Thailand,THA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90221109,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,764,Thailand,THA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80960,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70780755968,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56439341056,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94819336,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1759706,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12213898,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,966579,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335309,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14584003,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24807188,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2374,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45704,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1658860,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19902782,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30037228,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1952100,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,429597,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1086556,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,384831,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172424464,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36693528,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45167,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1320898816,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,777552832,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,642753,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97964080,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80962680,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49863,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,924577,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1023324,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27599180,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32203520,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19821212,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192143328,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179520,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23555,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1353831,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,651936192,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,744860608,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2225957,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1772,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,380662,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17244,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,419455,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39904,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,613992,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501937024,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160686112,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,651,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4686463,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4202846,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10737161,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3939048,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,271446,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289374464,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64215632,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18565948,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18806010,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221189488,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,347491072,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,865827,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,277829,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1710257,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58878,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378219,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160006368,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334019520,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,771359,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30299038,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13984318,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3033,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,479243840,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612994304,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472928,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52291,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1183002,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95337,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2414140,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1139323,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,231829,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23135562,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216962608,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60086,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2373370,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33644,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178949472,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47423380,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4072,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2094621184,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1640100480,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1153452,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51593,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13874,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88844,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9388334,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15179517,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27331,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14900,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1076483,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2975612,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15909095,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44075,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1376930,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48653292,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168409,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4376554,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1562105,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4080096,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,405762,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,595590,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355955,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26981112,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3928,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13710529,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24056240,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81925712,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68313352,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4593,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10543130,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64759472,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256967248,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170025888,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94702,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2885170,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9962841,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305348,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9096168,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23196,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1051085,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3462910,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14565,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336855,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1840567,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5279006,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18799952,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6557,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,906806,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10570879,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16189,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13733,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5320,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78765,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11876928,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,375727200,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88446696,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1804,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1946547072,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,977868480,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,985833,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12033,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,404974,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2085950,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514165,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3231,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59362624,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5241417,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24551656,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3397986,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2411366,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2686661,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13846127,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3749020416,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1638029696,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3861174,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64811732,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51499300,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147943,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71436,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27140780,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71548656,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86679,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6534271,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,307282,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78165,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,419180,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170123,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4917271,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96672,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,515733,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1373215,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,758275,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63310,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,490461,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1854120,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,745752832,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2920715008,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16306880,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13102533,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31054556,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16622228,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5938437,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1648,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,672708352,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,811312960,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1640065,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223074752,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190151168,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60267,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1571201,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67303472,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77868176,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14284,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219904384,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182146832,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355605,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1086732032,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,572243584,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,656471,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47281800,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12514924,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,475854,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145518,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5915641,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21622120448,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9475329024,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8051257,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1267609,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4088473,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7446621,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59331672,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14622,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13923815,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50268880,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3025092,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38407216,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34554,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2474113280,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,800099968,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1296992,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33011908,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111037688,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171761,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1712620,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4156284,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69743264,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,354372128,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1070863,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22277680,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61701304,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37639,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4086153,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29899,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1596838,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8625187,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23285500,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199034,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4259727,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1453067,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3899917,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16477,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7791468,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4568137,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254931,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5812620,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3234287360,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1554080640,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4214787,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,963580,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13685931,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48112484,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11059153,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16462,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2889293,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9056929,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15105,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,664413,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2608567,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14957861,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1615155,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25988462,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182890032,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52953408,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186979,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3420441088,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1353058304,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5656563,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2674375,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44185,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2352792,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7701590,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7357697,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61185,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2261559,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12458080,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,682632512,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21333048,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247105,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,585976,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35260,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129082416,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5204,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,698169408,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1801163904,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2579269,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8948189,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5299786,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202328,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,236484,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243720,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1533626,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8643,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,866563,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203821120,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92703064,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56471,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,683069,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1080065,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2265472,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2931720,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19296852,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57585528,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16320,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78844,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228563696,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54506272,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58679,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1141996,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35361616,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259912,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,379497,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2520095,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3211251,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64477288,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204912752,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,453320,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23561720,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126859288,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58510,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22970980,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21293608,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4618403,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7241376,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16706872,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21439840,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,579420416,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414521728,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1059825,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138524288,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,599062144,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10354,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37049808,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77123368,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9862324,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35057400,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89727376,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61311664,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27537036,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47393760,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22342862,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1264585728,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,403311328,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39512,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514383,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80594,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333115,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,549661,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132120,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,418638,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49247,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,541916,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,572194560,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,567513856,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345934,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2325881,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58461576,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14596734,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1631593,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1471741,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3931943,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,629191552,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290209280,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,718829,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4161392640,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7919033856,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18544160,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7763273,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3492867,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43095192,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,467670240,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,778709,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10826824,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5852218,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179798,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10132540,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219473728,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217912432,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32311,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8162601,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2930038,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,255616480,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450647136,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225992,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34036360,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8606215,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3829259,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2100310,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,585392832,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147220720,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,463442,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,979136832,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,491579712,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5643756,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16410261,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65201944,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2311518,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12988746,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46643968,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101527,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,671091,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5462,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3019285,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2046,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,678300096,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1008566592,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156169,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93327,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15080551,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,795,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65916080,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69318448,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91517,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39885,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1460420,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16165613,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30491384,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29063656,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119673,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6420201,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99905392,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16634,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1455426432,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1618838400,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,973574,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24259016,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44744376,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8509770752,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10078286848,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10187750,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,698390,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7423828,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12896442,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1928228,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6152453,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9356949,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2684076,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18767380,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5250578,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8606198,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110738,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,864638,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90687600,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53536416,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2887514,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2900848,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159422496,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3017179,,,0
+H0,1995,1995,1995,0,0,1,Import,764,Thailand,THA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,800527296,,,0
+H0,1995,1995,1995,0,0,2,Export,764,Thailand,THA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,652514816,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,764,Thailand,THA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94110,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556332480,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,382754176,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173541568,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9919,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,871618,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156901,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156901,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1591,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96852,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47220,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2616767,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1545022,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355473,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16432,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16432,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18479338,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9319512,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342218,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2969142,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11569695,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,658,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1849,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113953,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,299295,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1956,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6772383,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415939,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,255703,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9891608,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27347866,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6232,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11136,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63950,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46080,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3612,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75694,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45774,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8121140,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2219144,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243002,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1297,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56480,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6544,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,793995,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,593276,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79586,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75315,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75315,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6137,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8458,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36323,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3021960,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24774540,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17221494,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6807005,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119106,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71304,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1937236,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1937236,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9617,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47707,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38069,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21079,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132175,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132175,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33494,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2409,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2409,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,499646,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114361168,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14093564,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1351091,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4788687,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2806154,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2573287,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16439,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141753,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130699,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29722418,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6697760,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,491342,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6629312,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17845752,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14108994,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1605,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1798,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1961532,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2952700,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3784,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53114,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31219,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181297,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170035,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4026,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1651,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86931,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86931,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27600,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10346050,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78696,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78696,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8618,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,769574,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9394918,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106967,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53713,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262270,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89835,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3907,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20364400,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5321244,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108311,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42603868,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5746587,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5446030,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23458,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9373,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9373,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18809764,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193186,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33870,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75073,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19882,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19882,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,277898,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21477,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21477,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9998951,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,572081,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12921,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4072,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40696,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27760,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27760,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132175,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23092,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23092,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26781,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212255,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5071966,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19027,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,855471,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,569358,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14376,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22118384,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,919345,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,919345,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54115,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,797080,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51349,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276420,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11983,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1689746,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26576440,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243250,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,492,"Europe EU, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134755,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5159,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,703904,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1935713,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46887,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29640216,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13469881,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3513333,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10403488,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,536,Neutral Zone,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27094,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1476,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59279,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2576,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205334,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1666496,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,985980,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50925292,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6425366,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3077860,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4220068,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337343,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4820393,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2495,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2495,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122780,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40192,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20317,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14811,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8945820,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355849,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,994978,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3513,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3448354,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3157824,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10040,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26240,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26240,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98391,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1003,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3761974,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,590,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,590,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13478,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6023,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6023,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3002,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6232,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159417,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29698,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29698,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2774941,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224356,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110384,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64120,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3716156,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8145382,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218673,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1270481,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3219003,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55662,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,948920,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7400,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9751806,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13211755,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1381,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30424,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19132368,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5751293,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171645,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6633,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1576950,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16737,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1588159,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42744188,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40520304,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1204,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1508203,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9670672,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15834,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34464,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,297284,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1910148,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2551443,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,630207,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40123,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177049,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43372,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68777,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16659083,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1061570,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147084,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2653,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2987,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2987,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1941,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41662,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41662,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22277796,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6252137,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5775347,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33959,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395970,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8767738,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8201954,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,458239,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10295125,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103453,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19957,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34005,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10469,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10184,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10184,,,0
+H0,1995,1995,1995,0,0,1,Import,768,Togo,TGO,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4271781,,,0
+H0,1995,1995,1995,0,0,2,Export,768,Togo,TGO,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62872960,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,768,Togo,TGO,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62811732,,,0

@@ -1,0 +1,855 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11874755636,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11529254971,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11945709,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1581967,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75000,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57806,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,302308,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29270464,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,383182,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,299214,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,191882,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8136,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,128850,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26277224,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,212561604,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40502843,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64091,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64091,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1720,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14825698,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8861,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34611553,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8064361,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,236645,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35240495,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,950985,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9016,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,78063,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2174184,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20989,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111918536,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,126151,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102151,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,106308,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,497804,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,154594,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,190000,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,172,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1512913,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29170,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3000,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1165909,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1620741,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,696,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,61389,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,174878282,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51659279,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25000,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1740,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46064,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1719805,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40000,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,433794,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6250,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4482685,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1294,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2085154631,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8302374660,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,501128,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18207,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1391991,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1966211,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,171015,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,328888,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62173,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,408,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10996250,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1000,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1000,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4598135,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87943,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8871242,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,239254,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,136711,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26866,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69277184,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,266596,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1900857,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,150678243,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25732,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46620,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77422001,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,267168,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76282,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6738,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,177989,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14539050,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,382592,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,166061850,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35225791,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2600000,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14480,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,241120,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,451323,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7258,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1110363785,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12175914,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1166494,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,647622,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41349763,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30880,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3013534,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4991660,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10940,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,191086,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58426,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1157,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,830212,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38331,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6580,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30456,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,217756,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59482,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,332367,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4261370,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85743,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8772253,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50753,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41753843,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43513986,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41279249,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4111,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4111,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,567730,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50494028,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,275245,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23059369,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,211779089,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2023782,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25255,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21839,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,351,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2366707,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,714558882,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,492927671,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,366499,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87594654,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41366637,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,72425754,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8507,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,481,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,188662,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,314816643,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1248274,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4669,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19308155,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1278159,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11781,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,110560,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35856895,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18142415,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1001,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35670,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,131777,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,324006,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16139725,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1798194,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,326618,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4426,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,291456,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12800,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65475,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,544031075,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101299555,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8432,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86857,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,616502,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11996,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1710304,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3576380,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15777534,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,149539,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39362,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16913,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1214027,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,104475,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,481,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19834929,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,220146,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,139967,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2162206,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2580,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4892,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101343556,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3581574,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14293,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,825044,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65285912,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8350837,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64500,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39124,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27610,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43647998,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37598,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38961,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1906601,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,176879,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18014,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2755213,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1918,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28575,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87685,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24859,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,96339321,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5205908,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,704,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,705140,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,131272,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1009457,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,156,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,154,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1030,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5633694,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1017285,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1775865,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32462,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22034270,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,437379,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4056034,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,170230088,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,71282,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,368,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,260304,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,272274,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9632,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2034,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1338843,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8007835,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76779,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,660751134,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,143326376,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,162635,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19604419,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12516,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3444685,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1709954,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1174635,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,558593035,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,144177303,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32097,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13094664,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,191049229,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32920,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,900982,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18589582,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,312187,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63855,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2457523,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,146672,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35563128,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7985,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2255992,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1918017,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1822716,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28510154,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,663686,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1393,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1463119,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,143129,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18073877,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70332,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,479,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92116477,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2016717,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,104,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18102298,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,151686320,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11607162,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4999,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1960,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,147904416,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1306218,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10112,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2001,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23126,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,218093,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,187500,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1391163770,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1425153788,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6968758,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1256513,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5973358,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,212250389,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2569008,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79082,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2754,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4166580,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39980963,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33407,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25902,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103412171,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8102,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3001,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52207,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,610763344,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56505116,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142000,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,450643479,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36242409,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5852,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1700124,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5504,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,157024919,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6028298,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102204,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4995,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,961298,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4247982,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62559,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11619,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3536,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,175730553,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2613613,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20072,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2982216,,,0
+H3,2010,2010,2010,0,0,1,Import,736,Fmr Sudan,SDN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8130019,,,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75070453,,,0
+H3,2010,2010,2010,0,0,3,Re-Export,736,Fmr Sudan,SDN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48363,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1860144782,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1631059824,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1782,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20492,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1814688,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,488560,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31430,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5393,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2856361,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30928737,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88842382,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28541,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6748066,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19141,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135072,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14067303,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9152042,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7622792,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7635869,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6120410,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1966730,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1641,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2468259,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1207842,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32903,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77019,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4526296,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6314509,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23871,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1135,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171048,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20688,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32778659,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4796660,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29356,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,313601,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,615,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116028,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22118,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1996,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1974,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127291458,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,706610709,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1011,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7007,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225912,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1304362,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4463656,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75805,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8767644,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248460,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8286915,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2159,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,773432,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27124,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13640,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7902933,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,576236,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90978,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2276758,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1460499,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,793797,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,872800,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78869,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93296446,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6808483,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38219,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8641838,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330814,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25063,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6093,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3923,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12405462,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2955200,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3664,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4570,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61707,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4096079,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8554,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15820395,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153773,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5967,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38749,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225366,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,618781,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3647327,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124885,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10698,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31889204,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27526020,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15999047,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173431,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19132,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5443871,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104303,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50998336,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88913007,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12429,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,504,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91010,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118273521,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76757092,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18849667,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15204761,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31760355,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,720679,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1650920,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144575,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39789658,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62432142,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14999691,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,711626,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12999,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2031834,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7712917,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8827234,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146317,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9965,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72689,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15341,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25730,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28473721,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16662020,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1416960,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146136,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19864466,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96301,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,451,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,531572,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6816830,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7536218,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29461495,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7216,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,388,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,434006,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180239,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1673240,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2682883,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19046,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25178853,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8366481,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262856,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1088099,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1501319,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3740906,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,757507,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81113,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224939,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107121,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45597,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,797,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,257471,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132012,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68775,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4397922,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3654976,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,296204,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,681,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4496,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,681,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1107471,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37603,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92295,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2684,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8893966,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1871756,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194883,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1514956,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1398734,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,615546,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7732269,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25239,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11034968,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,889305,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1006,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2112417,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,995667,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11650737,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149482,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1484,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142568,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197510768,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98122882,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250519,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64479,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89534,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448165,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85958783,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10214275,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10918510,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68575812,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241821,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93970,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25223,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31893,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2683453,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11860129,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7397374,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2940276,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,595499,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,360,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4399109,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10725174,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11305760,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3515250,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24386792,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,373756,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12808719,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20725720,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7147120,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8478584,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,813294,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27054,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104011131,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44907021,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336511,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3948591,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43417874,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3761836,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34421,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7803558,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5083394,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57441,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46286445,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41840483,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175515164,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89848067,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,655001,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4851,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42711744,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1548574,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,878,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68094,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3857467,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16790572,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6336571,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57348,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3200,,,0
+H1,2000,2000,2000,0,0,1,Import,736,Fmr Sudan,SDN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119737325,,,0
+H1,2000,2000,2000,0,0,2,Export,736,Fmr Sudan,SDN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39015355,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7366847668,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4505813021,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148647023,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1555,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100517,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1067890,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167905,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15077,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24603,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20703,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31414473,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239343300,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9792577,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183477893,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265538,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15927501,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17997347,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39734811,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6330458,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82828,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15179,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90982,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58067065,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17400,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23629436,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,904714,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30462,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1043,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78450224,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56278230,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178864,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96524,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189797,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93024,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36806,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36806,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89741,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1316161554,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3323849328,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3142309,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10065,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65373,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7125735,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48534,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7123761,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45505,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4908898,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48593428,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78072,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,494029,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2558537,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47420,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2489,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14473928,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2091190,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1374,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204506785,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28180837,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184775,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163669,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26290,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8211,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370595660,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25880214,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,689314,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5458,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25043579,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2997714,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181770,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66952890,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4447988,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1605865,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52820600,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14550045,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53649374,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104757,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33541,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31334,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18518608,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,299912075,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15486815,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5256,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,539247490,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,372223662,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211847,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46307690,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6710421,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,787330,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43342524,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2702138,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3093,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326361,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195820311,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7860502,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32451,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20022992,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2061585,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14005990,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17917656,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4915,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,373,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9729822,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1407532,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67799,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31837,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92931,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225552,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20374,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21452,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157709336,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6367,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4574,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13230,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54060,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1021,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4920670,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7119574,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10342263,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1761780,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107040,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158413,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55790,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2950,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11082925,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78729,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170598,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92834492,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1461746,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91792,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9469,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7761521,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49600,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,436357,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12406040,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32097489,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14809963,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,629312,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,584074,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28136,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10807759,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2612048,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1035,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,962991,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20425679,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26323666,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,994874,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264783,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4417677,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,381627,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64005093,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9330088,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8733763,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3312,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,591278101,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183284755,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31907941,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4404,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,320117600,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24706192,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96954,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32373466,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3467272,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,807421,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1711337,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1637032,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222627,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,986231,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20432,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78744609,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,657103,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,657103,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2062749,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17266065,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,975612,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93913822,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6314486,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66732799,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1360247,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287802,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47467899,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11461608,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79582,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36845487,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6813178,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2377,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,440035158,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120227578,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43432080,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3883910,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6039486,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47437,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165544181,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7076954,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82984,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5622,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28083848,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54312364,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,405841224,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51998793,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2317801,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358322044,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84613997,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53542129,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13671,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106909084,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13531985,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5033,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15442,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31954553,,,0
+H1,2005,2005,2005,0,0,2,Export,736,Fmr Sudan,SDN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9889294,,,0
+H1,2005,2005,2005,0,0,3,Re-Export,736,Fmr Sudan,SDN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,611178,,,0
+H1,2005,2005,2005,0,0,1,Import,736,Fmr Sudan,SDN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88660,,,0

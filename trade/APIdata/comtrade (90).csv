@@ -1,0 +1,811 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13883488256,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10201048064,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,813584,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5802,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,397055,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8515,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28210,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5605899,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58598,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11161052,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186276,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85538,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241040272,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60940928,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16166236,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10723004,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27806948,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4256740,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,858076,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2288593,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26590,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111276,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5005,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96591,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60719,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,702195,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105598768,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,294320960,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47020,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105987,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25437,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13939,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64523736,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25242066,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,558730,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15522,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,453269536,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104410544,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,80,Br. Antarctic Terr.,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7968,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,80,Br. Antarctic Terr.,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2830,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24031,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371247,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34724,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5258,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101944,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182140,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37815,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16510664,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166076,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52865,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493962,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56011,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116027,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244517,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,541429312,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163610736,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1344997,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112859,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40000,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3572988,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,782949,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201107872,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138537328,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118854568,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44127464,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151402,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38524,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29580,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44373,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,312986,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17917,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6970735,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92404336,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,375674,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23008456,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17589634,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16923,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69355,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22068852,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3379123,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82180,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50916736,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70138296,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211534,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2505850,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47546496,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273451168,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,427759616,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1080092,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17271190,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12922,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77444,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,672957,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200229,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8404,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197479,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34650,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66262560,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56759752,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329672960,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261473824,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116231,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7059,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4240,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78043,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60495,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31654,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33368,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7195,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,758859840,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,734151872,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17338,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288194,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56734,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54854,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30361,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4131721,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7113245,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4167,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186493,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607084,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2505978,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8608630,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33358448,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88943,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44528,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345674,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1416729,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138307,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9925273,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3291423,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20430492,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43440992,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97700272,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2380334,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,721333,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1157653,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,478533,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37338072,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1667338,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,830699,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240600,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17746,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4331,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28755964,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35050512,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64581608,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36427956,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390925856,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185376816,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47387,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607501,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4026137,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7557414,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1238206080,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363738112,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,968046,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103140,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,523364,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4232629,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229469312,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44895372,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,672,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,508845,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288737,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21286,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,431739,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1673876,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27734,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18753,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4197330,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,911378,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1544274,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1432201,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96903,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12582,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98892,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69070,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4363,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20623320,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2632330,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11209,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5591186,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10426750,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2342430,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4054,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36144,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176055,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,505104864,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89684448,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132645112,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24108232,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98924,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114649,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95343,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,562834,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17267916,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10319,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17935,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95717792,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340874848,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15804550,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39140148,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5481169,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116774072,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14062,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2977398,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1657934,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1446182,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12406786,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3005,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8706763,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1310047,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5259,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20299580,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30659160,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3899035,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,291231,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26396322,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124947208,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,651916,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8336633,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3389934,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125924584,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,566815360,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3253772,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,412890,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23181144,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15881737,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5568902,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58051444,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92216,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2075,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8476,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21594552,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,684677,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71987408,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12251509,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5271,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,685,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2358,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1350284,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,417418,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5754,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46488,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1075939,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4974816,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90260,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238697,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112335,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35240804,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4151896,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28080094,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6540003,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4827888,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,441698,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7139582,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7291501,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1761427,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4315985,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31291372,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1110067,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7762,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38337,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282634336,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186663008,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47585,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7979,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126527,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2655776,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175189408,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89298912,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195229792,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50405732,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1454342,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,965119,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8499,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1620,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16138389,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9218188,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1090,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3212,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51696424,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55739648,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228353,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65407,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185516,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1352865,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5899426,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13577966,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18152,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1788,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264291,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,966,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394000,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67580,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9886957,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153216,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71856,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264471,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,400605,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248637936,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194321872,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44016,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4701212160,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3627721472,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3765899,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101085,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52802,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7899,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23125128,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8718884,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96750,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1091,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1387171456,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,966970368,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95853,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,839461,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12603,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47987,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9800,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327782,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,867851,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70287,,,0
+H0,1995,1995,1995,0,0,1,Import,170,Colombia,COL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145438400,,,0
+H0,1995,1995,1995,0,0,2,Export,170,Colombia,COL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50430604,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62392852,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11024356,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36489,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1203,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3393,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,454623,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8774,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17881,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,426744,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7269,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,965,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3203779,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27074,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285409,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5626,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32906,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21917242,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5799749,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213384,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306320,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,910022,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9042,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12691,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3085,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233560,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4480,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,827945,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59373,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2685561,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12455,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12747,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67270,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,611616,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91765,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1069,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,824415,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17909,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115372,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428380,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48573,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2523337,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8540,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,332510,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,669847,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1337,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,521,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5830107,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10882609,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1352253,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68705,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4470956,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112625,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28938,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1998,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12032,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,257782,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64934,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1565,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2214214,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,802,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8540,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2146,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,507180,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14439,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147759,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,521434,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3439415,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,701,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1604,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13865,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5318,,,0
+H0,1995,1995,1995,0,0,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186505,,,0
+H0,1995,1995,1995,0,0,2,Export,174,Comoros,COM,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6531,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,555904448,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1089792640,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7249,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,527311,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2949566,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6491312,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199566,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36983,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44309,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,291409,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56828,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19360138,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6376527,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1159482,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3834,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7953,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12405,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2192468,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75022,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,275159,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1601,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28182,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11949,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,730,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1391021,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,442521,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68457,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1002908,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6862879,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10021,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3593,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1051827,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4904,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,585398,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1439605,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16351,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1121,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2058,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,589055,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145106768,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107338552,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,516414,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168389,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15797417,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11524018,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62631,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28675,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20842,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1975,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21532,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3694008,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127607,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2105,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,880552,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2151503,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1326,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27974,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1256,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20761544,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189614816,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4341801,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25591,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12337944,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3423670,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6232,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21991,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27267,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,773550,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22674,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91465,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85011,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,480713,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171192,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16595,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65214,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31295712,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5878423,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30248,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,686,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126183,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37609,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,393706,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256860848,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1483415,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9026937,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3808,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16221,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30718892,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130725888,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,392071,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29458,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64981,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3752,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2368954,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100296,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2404088,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5973925,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1612117,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33651,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263293,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28498,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,352078,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,526106,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16148,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3583787,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110926,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,840679,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7193165,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8153,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1708724,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1836527,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265862,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5352066,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2861,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63943,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124904,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59833,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,313899,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,721497,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12917,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,601408,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5627,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10556,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99295,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238239,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1798743,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50199,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122412,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,904049,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16587097,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2360299,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50798656,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2612,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56398548,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44573180,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,311126688,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48591,,,0
+H0,1995,1995,1995,0,0,1,Import,178,Congo,COG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83661904,,,0
+H0,1995,1995,1995,0,0,2,Export,178,Congo,COG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18737,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3205464832,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2701754624,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103200,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12931,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1570,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19923,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1135,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3080,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142272,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27089208,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5141683,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,331094,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3626437,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2583195,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,425692,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77033,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612569,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66633,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5220,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209939,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3390,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98809,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97222,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,773881,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28293392,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177603008,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52988,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105424,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61169,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29286,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414836,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81071,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101561728,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6745295,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,391023,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14530249,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36199,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18008,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30022,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104095,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5896,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21069,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17509,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19080,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3504,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,976024,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39275352,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33404068,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58226,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2706920,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7994,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251351,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28583,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12651299,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16278919,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17119458,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32988132,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,861,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1549,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98542616,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16510056,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45082,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58554,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56941,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18009,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100354,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333033,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46979,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180205,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1949085,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1224549,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3102032,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5585084,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6607,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265310,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3350360,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12335925,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3413341,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7232504,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84117664,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90845160,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3081,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50050,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1879,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2491985,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35795876,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33280180,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51129328,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6274,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1392,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76797,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99831904,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172928336,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9488,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60787,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234109,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,620033,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29832,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15434,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21770,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,788,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47059,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112019872,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116958224,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8854,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,765378,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31413,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16111,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1602751,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22232380,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54531432,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23005404,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22017332,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181244,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244701,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15867,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5599,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2639084,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3919,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170991,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6132297,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3312321,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7067045,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9508820,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61843376,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132052984,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24218,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52561,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8339606,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9041963,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122813792,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28053328,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26051,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163805,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197484,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1147,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2680917,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195456,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39776400,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2117229,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82310,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22105,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4388,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158562,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4261,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,834,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10700,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20221,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1109100,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,311209,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,535181,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2495,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,446748,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11998,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23170,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176701264,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16444086,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44619536,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1621913,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15599,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100625,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1258399,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,550509,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1564,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,774627,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202064,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19789,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1062128,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22767,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43357060,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87591216,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428047,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1868117,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3775056,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1069712,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91457,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4258864,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162109,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17107402,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87241968,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97843,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215548,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22052,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7739,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2173063,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4792338,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223156,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51000,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99313112,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84576344,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5104,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8856,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70416,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8950679,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7070115,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8092,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363272,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5789161,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4285712,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1447593,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11871212,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19078,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152031,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,636,"Rest of America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11594,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13858,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2157670,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158045,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8520147,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33073168,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2381,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82665,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,801067,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234730,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69270,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41097,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39304,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105059,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,564374,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1679401,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,511609,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5153452,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3818303,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128633,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1679251,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118180,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2364554,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3411669,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57174568,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25866212,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9624,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44543,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,914871,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8334368,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24505998,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18047076,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16922344,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19317,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,854707,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189929,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2027802,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223684,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9502676,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,988274,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13770,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1480122,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86723,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,886301,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153165,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327340,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2100,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2670735,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95128,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29003,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30128,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25994084,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101238256,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3660,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50910,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1452945664,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1084646912,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92039,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,687615,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,714466,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5220,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211268128,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14490025,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112414,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17679,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125559,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5100,,,0
+H0,1995,1995,1995,0,0,1,Import,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8879418,,,0
+H0,1995,1995,1995,0,0,2,Export,188,Costa Rica,CRI,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2092828,,,0

@@ -1,0 +1,595 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,569311040,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292420992,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1181,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45857,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2777,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48149,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21552,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58878,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12143,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2276513,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326817,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439196,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32017,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5635,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89061,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31572720,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34813,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10566477,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14279423,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7442823,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44692,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7358,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115191,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13186,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18112,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39913,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7677,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1696579,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,346783,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13049,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26462,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12820444,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1771654,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2292268,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5500,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32766,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1289,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127789,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1828204,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43033,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1707,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4038657,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183804,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1248,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,837,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1171,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3981,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1262,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6539,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186122,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51961,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173933648,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84535296,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27971,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,712,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10545,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15233,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17099,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15933,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,926,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2530845,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,590974,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37025976,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24922196,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58093,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357000,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22085,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1911,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53851,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33764,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5024,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3320558,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,594285,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1183514,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,997552,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32596504,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,561716,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,933274,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,324496,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53342,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16794016,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7796392,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42725,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5828,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35731216,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20098690,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32862,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10050900,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,709321,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2337599,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5381494,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256954,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7886,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12614,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234011,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1692009,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67304,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85147,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30952,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493762,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3640424,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7002899,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258556,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5394188,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52598,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,452617,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330442,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4905715,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5775196,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3160081,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8211,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16641,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,992,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13077612,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6202271,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8509,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7277,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1264111,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13369,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,582,Fmr Pacific Isds,PCI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20625,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2766533,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185683,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9567,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,411050,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46044,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1235676,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1098168,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,502018,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3691725,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,601467,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15051377,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2375275,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3003147,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73224,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2077,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4874,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158413,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6963977,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1597817,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5255895,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17836106,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21170356,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,994600,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8610041,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,400312,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8577064,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,720,Fmr Dem. Yemen,YMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199477,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2819796,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4166285,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4372,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2797,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1004,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2393414,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1660621,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8110835,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3127635,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4382,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15865,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4090094,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13842,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4116930,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6532,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178589,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12236,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,947802,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65354,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1401019,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18557,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3824,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2177831,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2249314,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161862,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12753,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26674218,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4658146,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130088,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1556029,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23237640,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52028736,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10604,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,318212,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439412,,,0
+H0,1990,1990,1990,0,0,1,Import,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,743990,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185813,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3648539392,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2705662208,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12600,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11100,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43800,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3600,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4592898,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5211057,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1688498,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1574598,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2606493,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204293,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36655584,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13585468,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80698,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,382796,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70097,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1485792,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54640636,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28414042,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,699,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6351293,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,917997,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240499,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5345297,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1647000,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11372839,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11058072,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133076792,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290968768,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15001241,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1860482,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,296598,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,298098,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1416459,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344699,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,921995,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,829600,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334292,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,960196,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13000,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,360198,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6798488,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,731894,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61092584,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9997934,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127221768,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72005368,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20783298,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8600,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19700,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65475968,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60355192,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120688984,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29064774,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59539232,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45798916,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2923689,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7761683,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,521735712,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,389134208,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339898,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2357170,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1677287,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7799,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1300,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4543778,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4663494,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40482228,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13581939,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1055390,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3076393,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55800,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150500,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49599,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,473100,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6613561,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30513788,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6569869,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1100784,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86266968,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52404856,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7100,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8903965,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2077593,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65563644,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34193632,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49096,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69500,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7332360,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14765192,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,752292,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2413872,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90199,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15997,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23097,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19398,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114712176,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191098000,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2257500,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28600,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166297,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80597,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148000,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23199,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114299,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209796,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2600,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109300,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1455995,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2140574,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,478697,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1300,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10361245,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13517785,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5802000,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,403899,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2000,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93924384,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132360472,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101199,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17899,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423196,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44299,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98298,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31007022,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16549333,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7598,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,736598,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,943799,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237396,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,286998,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,859194,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19799,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205199,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154393744,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104766120,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14491973,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12867386,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1089192,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3652589,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1076208384,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,551857472,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5399,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28000,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245999,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2300,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4300972,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2939793,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1791986,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,560896,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20126670,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2116969,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53299,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1248700,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8755180,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,513193,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14699,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50198,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13986298,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22359668,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222899,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102979664,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68781240,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55731616,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66350768,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3397,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177399,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10129295,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2642369,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224085,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4293440,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109494,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38600,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9730717,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25659988,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5556998,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4282075,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134199000,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202769072,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28899,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28598,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125199,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137799,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112718120,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84412736,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69740896,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20222752,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27246472,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26538398,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1328600,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1582896,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82799,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99898,,,0
+H0,1995,1995,1995,0,0,1,Import,440,Lithuania,LTU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67194024,,,0
+H0,1995,1995,1995,0,0,2,Export,440,Lithuania,LTU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1186120,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,549520064,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,359872512,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9453516,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5239,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5007534,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134590,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17255,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1739031,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292199,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,941142,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120212,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17192,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9603,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41466,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5992,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13005001,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17617708,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6141425,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43438,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,736,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,573442,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22169,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,419578,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2344227,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6718,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,657906,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,831978,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251519,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,638,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193589,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19535,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3213174,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57278,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1630,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16442,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41146,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70487,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18086552,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1678483,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,450,Madagascar,MDG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14673,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113910,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98997,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4458903,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23372,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374852,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45447,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7279,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7380,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,882702,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61337,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30885,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2701862,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138845,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28813,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37700,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11448,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8865,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,540997,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162852224,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102134096,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,450,Madagascar,MDG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4892,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7561,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6192,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15322,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55211,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13620,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1623,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55464096,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29909560,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,817,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8430,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2053662,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,450,Madagascar,MDG,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1970663,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97955,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,565684,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4768,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120183,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6431,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93739,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8557,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12336,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5698,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4072665,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2977393,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211362,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13600,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11851,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55314172,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14731,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35360,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1145213,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67149,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,369139,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174385,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12618957,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18881948,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365388,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145481,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32728118,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22296630,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,629306,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1620909,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,450,Madagascar,MDG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1521750,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60172,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5405680,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182671,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11457,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5468,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10681,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126001,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69147,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8542423,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32301,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29360,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2509,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3728,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2576901,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13952908,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,450,Madagascar,MDG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4528437,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4364,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56833,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4877753,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,652022,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,386415,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,403109,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,781871,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,739557,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1614,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6997576,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7477114,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2818,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99253,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18908,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10857,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,834,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14299,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27667,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98407,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,392283,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11436,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7833575,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262746,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3548,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,315095,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,542344,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107299,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378353,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169977,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2156396,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,408222,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4217924,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,522303,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21378008,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,450,Madagascar,MDG,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1290739,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1407248,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,961525,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,657802,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8788,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25175,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7171186,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103334,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44546,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41633,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4296,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,436479,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7050678,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2882084,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8942261,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8391609,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22773,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34517976,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2738887,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5056,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1240456,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4006888,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12499115,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2856,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3757816,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8412090,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7231939,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5761788,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23480,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4469435,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,639467,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15405,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,356250,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,984184,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48915,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1368561,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,569857,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38977,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107062,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188330,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77388,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12952747,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13605812,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,566669,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3020,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14366869,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6732386,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,450,Madagascar,MDG,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103490,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20751664,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23670226,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1021,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15968,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5771,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11795,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330825,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142477,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4533,,,0
+H0,1995,1995,1995,0,0,1,Import,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1397695,,,0
+H0,1995,1995,1995,0,0,2,Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4925926,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18872,,,0

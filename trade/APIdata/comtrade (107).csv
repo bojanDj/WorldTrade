@@ -1,0 +1,393 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26744547328,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28226242560,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199365,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6251,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97438,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49505,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1521,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1255049,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2517,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1743,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,982089,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123050392,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376298,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3592330,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259081,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249327344,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112962552,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450028960,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288962400,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173704768,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105369168,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214326,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169234,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,397417,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5390226,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6578364,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1863216,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4338,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74685,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1393500,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65757,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,609043904,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,899709504,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,361495,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19448,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56517,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1372615,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224859,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6686600,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240457248,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289360704,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115187,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2756,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18794,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31590,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,379122,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,877,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1430576,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6584399,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21002794,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49413,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64117,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2189,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3876445,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,521067,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12855,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46707,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1378,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5931681,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10097096,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278215392,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173178688,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9343,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,356921,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1333024,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,998112,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16493,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1468933,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14501418,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46084032,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3075342,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146955,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94266128,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57214292,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,509026496,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289452736,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19271,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127627,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5906422,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11329970,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70574,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19585918,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,874929,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11514689,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101055296,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194603600,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132066,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3932514,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,963392,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,874300,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1413591,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39609,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17131988,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5580491,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2739551,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26988062,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8414139,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4652339,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,905665,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129222128,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114712880,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2623370,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,847593,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224864,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3455745,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1855746,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12301940,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74665,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4209108,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1458708,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,733975,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4193249,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74992,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8839,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63948,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129426,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,767,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192900,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167346528,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23158176,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1044329408,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358703456,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6453,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27271,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90530,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3585,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,914574,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1503507,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5825423,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250245,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96313,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98878,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1553722,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4411444736,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1402062464,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4574447,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48271024,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1641124,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1267289,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1474,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17160644,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41309088,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2699,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,544,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,477236,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,600787,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2189251,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2652770,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229400,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1843411,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27566,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41368,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2989,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1533052,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115890,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,891895,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,447843680,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,566630592,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17894988,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4514591,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5747183,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27222852,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99080608,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156460016,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1206903680,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40163656,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36013,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167810112,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126752296,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169702944,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387075712,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1094779264,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,669402816,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37781720,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29858764,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5065756,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,788006,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2718979840,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1799724160,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2591069,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39774,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95777,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21279396,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30764020,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259983584,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1141697,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,740470,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,411222784,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,577851712,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164952352,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12819332,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,506401,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25509,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25570,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4410,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75889,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6004560,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106874,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199863,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2933682,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337193,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45963,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193905,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423673,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,970112,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2749410,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45170116,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56486240,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191894528,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245722336,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185344800,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34040,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1118877,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3366363,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17819616,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,962545,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2035660,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,383235,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290745,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136458,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9677609,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191027760,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30698862,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32180780,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,890288704,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,700093504,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45708,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197304,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159297,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23550,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1703209,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16588940,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33086946,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,617461504,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12165703,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7550567,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137770,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12861,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61894,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,627969792,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,855589760,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28374,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4516259,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33240,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,536,Neutral Zone,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1418,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55803,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147237,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4301,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34737120,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39921272,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,747734,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256911,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,679696,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1612311,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7273495,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51334760,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35000,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27849292,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115944312,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2374,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70015,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,517,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10790,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29090104,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72571784,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2071841,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4200139,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83191,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,740571,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2703289,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9099420,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22006364,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12937342,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21451240,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46597048,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,611,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17630466,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42823696,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58153040,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106633376,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165084,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65768,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460265,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39551,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10653498,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1757010,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263250,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51365548,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14743902,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13295189,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35259968,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64964584,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335330,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2868390,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222446,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3216668,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12198,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89512,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17747,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1314,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2214,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284404,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1689419,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207900112,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89812968,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1562141,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7875723,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,645498,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34085480,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225896,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3179182,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195461664,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189703648,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322748768,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,315338912,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5307762,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9279664,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14808735,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3051511,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160922,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,312845,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,770,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2613456,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,268757312,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1254239744,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210031952,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,466559840,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9162,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374666,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,275813,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5279404,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190917,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,380157,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,408843488,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30628460,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,648372672,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1153370752,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63055,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,655163,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26444,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191148816,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164180816,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16568779,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5450785,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240487,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2922065,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1882,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68997,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1471063,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61455792,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91460008,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2622644,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,809073,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53057244,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97919400,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,632,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9801,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,426645,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,909556,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25699934,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5197638,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3919564,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101457280,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24594744,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2934594560,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2347718144,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4508316,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172780192,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,508677088,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,377613568,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5704615424,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3157973248,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2144917504,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153743,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,298925,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2494345,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,944087,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4255749,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6952867,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49444,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82031,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1512483,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16595966,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94101,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61425868,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267874,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1575084,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5317043,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26777600,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,377458016,,,0
+H0,1995,1995,1995,0,0,1,Import,711,So. African Customs Union,ZAF,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82688160,,,0
+H0,1995,1995,1995,0,0,2,Export,711,So. African Customs Union,ZAF,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2421837,,,0

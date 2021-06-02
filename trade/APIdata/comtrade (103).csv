@@ -1,0 +1,319 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132256944,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18784660,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1461586,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,743547,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173389,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76270,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134960,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98510,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12358,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4424,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28819,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3347022,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254691,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39346,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113043,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10395,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2000,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250985,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302382,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130663,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77622,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3022430,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22539,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22539,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22472,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2590,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147438,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148432,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41087,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69504,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2280,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,597558,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,507006,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,628754,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,629,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570080,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24872,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24872,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3616,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28697,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4628,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4628,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,673996,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365158,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,592,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221083,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163349,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17812,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,320115,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91777,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1065,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34075,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,655164,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67694,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64736,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2277,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18363,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49218,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25519,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89348,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6575,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267834,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59102,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1796736,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6990,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5553,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6946063,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26070,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193329,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279892,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35737,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12566,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86375,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1223582,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107292,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237919,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10836,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3670,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1012327,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107590,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7159,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2687394,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,452272,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147386,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1903,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218344,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,590207,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4121,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,461718,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28211,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51577,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14850,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1164,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155346,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197038,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59085,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,515701,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327128,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25788,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1783652,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208242,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2912,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70368,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91418,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,938,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6563,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43809,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38203,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70443,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63257,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17513,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13034984,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66723,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4340,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51598,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1993,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14090353,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7852469,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32743,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72874056,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7585098,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,786529,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5185,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112115,,,0
+H0,1995,1995,1995,0,0,1,Import,659,Saint Kitts and Nevis,KNA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,546003,,,0
+H0,1995,1995,1995,0,0,2,Export,659,Saint Kitts and Nevis,KNA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81096,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49736,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306020288,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108967568,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15204339,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,583572,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1726218,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64224,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,397610,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1645,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612353,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13374,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3962,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64622,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186917,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10266,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25645,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7016,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10371072,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2773228,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1177694,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1445556,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212079,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212079,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2784164,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10555,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55513,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172675,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2112,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4723,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4723,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6964,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11753517,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,981950,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288501,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14643,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135561,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,951,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,951,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126103,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6388,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4245817,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1975,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1975,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2236043,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94495,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197803,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,811712,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2004,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2004,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2802029,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5829485,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117124,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1467935,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31928,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7712,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6044,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6044,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202373,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6113391,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57622,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51882,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20597,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12368,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4492944,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1396159,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62303,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5675,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1970556,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1316527,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77810,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7959,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125942,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91664,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,591409,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2251,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2709154,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,438801,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32553,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21702,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1376,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2267355,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1012482,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124019,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88962,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38921,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5139,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,703229,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1072,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1072,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23024,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,868683,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73355,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2216650,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2351,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4060938,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278630,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1690,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14029474,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337220,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166619,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,823,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,576200,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,555,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,555,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1704873,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,646,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,632772,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2584893,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,773676,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,465710,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,628291,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12093,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12093,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2151282,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5652,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,740,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,792,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,360754,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5370,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1977,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3638,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4659665,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60103,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8482,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4892099,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23601,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2089,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28413,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2106340,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13231,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205816,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14755,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,809336,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5214,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18377,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91215,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176562,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9870,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9870,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54530,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26055,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345294,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,437849,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41503,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10980,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7496,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7428868,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,763332,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123590,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5633,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5633,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,480401,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3684,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3684,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415565,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37824,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12056,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21097,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,495261,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,957,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,957,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13362,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7955,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607930,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501570,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61730,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3448,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1420999,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37789648,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3227847,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290211,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,932,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,332533,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52981,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33990656,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57806600,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,515842,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3748,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17051,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,715386,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,712232,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116462312,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28316436,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10418180,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96019,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1673107,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189703,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,740,,,0
+H0,1995,1995,1995,0,0,1,Import,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,734386,,,0
+H0,1995,1995,1995,0,0,2,Export,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142642,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99683,,,0

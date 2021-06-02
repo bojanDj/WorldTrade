@@ -1,0 +1,1398 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38632769854,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38781276003,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1403474966,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214460,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,672285,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2642,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5104,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2994,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,506,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4754329,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44697206,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1674,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3260,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1271184,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23615,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43803,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2097,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77626608,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18558691,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,377127,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160836806,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22272504,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2867901,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4261395,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1081930,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20117,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10377709,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17221645,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,803270,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20194180,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47530905,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,601459,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179643,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1373721,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335047235,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,303285980,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8978411,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,578524,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11967,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2263,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68380,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,308835,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85665,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14017,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228831913,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72780855,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1003656,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8316,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4779590,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28997949,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4378479,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114735,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,857,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33492148,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10736074,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,924211,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2910725,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6556072,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3250761,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27410479,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4196416,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128824,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,687,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1282427,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21993,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1096429,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35393,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,750130162,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,252327131,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39535404,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7165531,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1696,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21125,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12354,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29117751,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32697569,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,692161,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15532,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43521881,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23601541,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109613,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1030373036,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,720579630,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10442057,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20554,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3230140,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,648319,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59199,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2171587,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,643080,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7128544,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5587189,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31887,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7290,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17690,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5513,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,455140,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165202,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10170,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273204,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2357734,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,436373,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,878795,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,295884,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4133,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,837873,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,400663,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45463,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501777,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1821733,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22760,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30983706,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38728339,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,489630,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3893,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185750215,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58756614,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2316193,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73148,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283344,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1732899,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4086,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2155031,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5105904,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15232,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,362350,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28953,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264165,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2443014,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134195,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244416,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75361,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71877692,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173162671,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21671416,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234560759,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30460372,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1892994,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,889082499,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,557247237,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12941451,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16269,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15746,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,364671,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66200079,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3004971,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76566,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10863,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106388,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2101,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1812,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2515164982,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,828346562,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47069595,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134787,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28981950,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367230,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90327,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4865,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8782116,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1136081,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44530827,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33741742,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276121,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1150,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89367,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1135018,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13446,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,351017,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53838,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4553,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66606,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,716099,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29231,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,280330,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39798,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4125320,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106015,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,608136040,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,976339731,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63792853,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20445329,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1223460,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93868,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1320421,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,411282,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10639,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,396180689,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,867383076,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26848441,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7701045,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421620906,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108928,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148930,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180671872,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50429,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132076671,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11209490,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3674023,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96914652,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41337976,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9234297,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1150605695,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,736865456,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19011102,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1006429,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96696,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10655,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,505654,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1285929,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192542,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7151755598,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9814552469,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65432082,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2750010,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9354619,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3155,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4366555,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4966476,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107779,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29351,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27147778,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85844,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,876087896,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2070765517,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10946817,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81572057,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23479643,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103934,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40126,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1280446,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18689,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2223321,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,698067,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52187,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103309,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1091,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1068,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3260224,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58304,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30875119,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,848054,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24913,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249652,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493630,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5672,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7612067,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81599,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26908,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,503532243,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,596745171,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20918813,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123112,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371841,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22690,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,331283,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344466,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215660,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1083937,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2553627,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1352,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70039,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2597344,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28298875,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402861,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71654149,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48409380,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,697234,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1361954998,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1348183391,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21193184,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,577,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124783,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8626882,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1818214,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7474,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1057857,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3744955,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13583,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40903492,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56173170,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1050511,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37950450,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20233926,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1588425,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365536,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,936338,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91930,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,503966,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26243,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,427997245,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,608071301,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12905946,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,519972,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10775944,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62044020,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9118004,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1870015,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21301783,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3957641,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1693105771,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1812752657,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363343444,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78021,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,508216,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31374,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254945,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67074,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6367,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3016401,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,712149,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48536,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,563,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44217,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8045428,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1295079,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103612770,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11142131,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1039499,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,582,Fmr Pacific Isds,PCI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5955080,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,582,Fmr Pacific Isds,PCI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97564,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61711313,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116593118,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1850554,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182174,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,546383,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106015,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,286736244,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,542403964,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71721546,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160702,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185779,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8241289,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17926515,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103362,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98499774,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,356211177,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8073878,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1685,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29490230,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29461745,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,539315,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43066231,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31679398,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273511,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13799545,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19182095,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91475,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3358,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1453439,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128801,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8156445,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90977252,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1192430,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60041,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131988,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,582896,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14149,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493790134,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188379383,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1652624,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34053,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2500229,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8880,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409901,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216132557,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245655206,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6938269,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,870478425,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1788679940,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95830852,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14448798,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18122521,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234930,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44585,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22541,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92387300,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58992282,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4135913,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10137798,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12993913,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,629197,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158775896,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133348206,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5444514,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302307,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2087802,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77704,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4688,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,646509328,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87805534,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7966234,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,492152930,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,587539406,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8819126,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20420301,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,468140,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1275,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363295026,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,461074915,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16898682,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3986229,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117827,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1820879,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9602544,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1092574,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3969213,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5079576,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4573,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371415098,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121414357,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4172439,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169101,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292065,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24141936,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100021130,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98854,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126163,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1093937,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89896,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229387,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,352615,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27902811,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185800233,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2665048,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2621755,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323632163,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20668,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2658619029,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1298712428,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92673310,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,782814,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5594316,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25671,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,790779549,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4842338345,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,388407,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9142603341,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3157034309,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250383755,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1532943,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25238222,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1617648,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34817,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1312,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2220697,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,907614,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13733,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6978113,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4322924,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120500,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,532838,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57898,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1427296,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11874605,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1371693,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23931885,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100204529,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38375765,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37522407,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170509,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1054743,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1008276,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25850,,,0
+H0,1990,1990,1990,0,0,1,Import,36,Australia,AUS,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17682368,,,0
+H0,1990,1990,1990,0,0,2,Export,36,Australia,AUS,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428964490,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,36,Australia,AUS,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8777067,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57422799123,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53000545492,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2615866821,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41639,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2059118,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23859,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48711,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56154,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8049493,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5558343,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,476365,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,332885,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376874,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201457,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54879888,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73199829,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12513895,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,220503264,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27206046,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2495861,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3421152,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,818972,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13152,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4480653,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24606139,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,530825,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18328439,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77905128,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,667698,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26186,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14536,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306575,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1655260,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11117,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,558308805,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345214587,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12142825,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173615,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90202,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59088,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40566,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1054255,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,454392,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,325867,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185297,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,347491827,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210149990,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3224264,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73486,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3791879,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49209580,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8624935,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11902,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,630,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16172041,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47429905,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2867261,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4525236,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16450643,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4824667,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9081002,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,928436,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262938,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37059,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,972950,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16262,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7265,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,351227,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10218440,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,562561,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,272673,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86994,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1085938668,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,385390791,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61172403,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259416,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259416,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10512393,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54100,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178019,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38099355,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80693825,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2124852,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50002,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74517009,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106725869,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4912952,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2825025860,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1798172822,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58739576,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1642127,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13888430,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1612475,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,606913,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2643658,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395613,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12148336,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11691967,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1665134,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20665,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12192,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56253,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,944389,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,884636,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65625,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2390,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1067393,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8128269,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1281242,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4478940,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,444875,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219881,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6283437,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3035638,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87767,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3353515,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,517481,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122798,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1369572,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4399988,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,698547,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37985481,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12310594,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402101,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31129,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4199,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245200664,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82395005,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4612233,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1738,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7389,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,767203,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219764,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182819,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1728710,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,864914,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9854,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,670507,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78889,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1194032,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2304034,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80385,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86665,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1079811,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10413,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13281,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8266,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142196004,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284194281,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34526889,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,546912496,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197823700,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2880693,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1389854039,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,536113849,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22840875,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1318279,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22170,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1535224,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58357067,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5083334,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2765286,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1624673,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116929,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9323548,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16000,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26965,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,805125,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20382,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,567,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5534,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3770337168,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,757102878,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37427016,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2370838,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24408422,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3506010,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84725,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14535,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,518,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54245,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10709514,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1700624,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48721763,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19019877,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3141773,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82383,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17268,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9331342,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23693,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2320330,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1184286,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,836,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,579443,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,198746,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1163384,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,541457,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5220,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111988,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29529,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1083076,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115824,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24074,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,750961084,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2065901564,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116497189,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28867260,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3206424,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201056,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1292831,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1146479,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3841,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,943890043,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1460485597,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53177194,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15426810,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62363655,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,352608,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,539508,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345892097,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36870471,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5055518,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217584089,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49257876,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4003073,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1593134388,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,862006786,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13483393,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4093994,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,332260,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,424029,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3037065,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13919,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8722929727,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10731914788,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92422715,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,884823,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3208938,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6621,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11028907,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52931996,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,474272,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8706116,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11115532,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270421,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,762868,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96605,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1606200878,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4037321094,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36667633,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32534635,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55547122,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,369578,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306213,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58451,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108990,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20330619,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46786,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2977784,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9202376,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2481625,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,696434,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3061747,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145129,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136908,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146751,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7938,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4756499,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125932,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,257687,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2793145,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1265,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7889621,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5635636,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18042,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,533050,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1353464,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,693,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6662120,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150860,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45231,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1140205868,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1354875789,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53045360,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1537733,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116009,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45634,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1435559,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17279,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4109688,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7139624,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24904,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,552486,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29385,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,955542,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51639466,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1526989,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114614122,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46191257,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1103157,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1873274154,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2253156132,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74712984,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1942,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74360,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13934,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137446,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,286325,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10449894,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2262741,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128446,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22673,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2936801,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3202,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4855482,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38541132,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264369,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9551353,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18237334,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1837158,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,658329,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3138769,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15799,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,890578,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132102,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501575808,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,366882895,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28717077,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2394293,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2309431,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36650823,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125388515,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20706104,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3626540,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23461961,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5029041,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2656792599,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3687916642,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,820424608,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,540285,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164109,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,817463,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14823,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149052,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1446913,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28033,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3503,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337655,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9260,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111675,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5955,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58877,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5153989,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1344328,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91390410,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21737627,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1438832,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83087,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,784458,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94135,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6385,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5753729,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119881,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1114517,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12538,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213701,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48328,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92370921,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131692118,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1614666,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,865971,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,685957,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23794,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,865134620,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,536250141,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75056551,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40973,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1365241,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,576855,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16920338,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9626742,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,397075,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170696882,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,705432856,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21915195,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11198,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23799478,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19239618,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,790303,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60208043,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30219794,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1010073,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77965,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126891371,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26217708,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,293820,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2852,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3734282,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282054,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9064768,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63251483,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370002,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25615819,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52773899,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1163673,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,588186,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14779,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40053,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,731,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66738,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113549,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,515344,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4030399,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86439,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103136,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,585412054,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218923655,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1574146,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2324,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378872,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46577,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2326493,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226903,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,467753,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,303179,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,408627700,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,799905948,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29947204,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1784022691,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2758781208,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169245470,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1769870,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2396286,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460234,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212586623,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113189031,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7131221,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18414795,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3681765,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107166,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265359258,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,377198666,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33030209,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20601525,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5577676,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348486,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370297600,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169097823,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2841262,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165235,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55656,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2487925,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36423,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1146281834,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131889282,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23505669,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,758311680,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287825977,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7670527,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140372,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1948033,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92837,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,864233,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48926,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,721448286,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1222473297,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33880491,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3622382,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,391870,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,351104,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11665669,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1548133,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,528083,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4627080,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28313,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414090543,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174384176,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10696695,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2530108,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4309406,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38078,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49004192,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194118734,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2135733,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11487,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2432972,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259452,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3238958,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1077235,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53859,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1207089,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1341955,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9365,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2009623,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1270980,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163798,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6514533,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61108206,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1201559,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3412851187,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1472517927,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174395901,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2155774,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1942145,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89015,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46517231,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22190412,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12256843954,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2635123555,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,332593759,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2022829,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29833412,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1998773,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118448,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3459261,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3642693,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199661,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43150,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2261604,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8979546,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98397,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2763419,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221121,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50708288,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19322546,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5100948,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5301396,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3706,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,894321,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1082771,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45280,,,0
+H0,1995,1995,1995,0,0,1,Import,36,Australia,AUS,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1206170371,,,0
+H0,1995,1995,1995,0,0,2,Export,36,Australia,AUS,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7815959002,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,36,Australia,AUS,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37568099,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66405670912,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57582931968,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421421,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62399,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2110060,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14350459,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117498000,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80301456,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,360998,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2081489,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6942,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2566616,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68052,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89976,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1288967,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1983088,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20568116,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59307520,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22457944,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230076688,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233327,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1204825,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129359,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22587470,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18204754,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8003129,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85214,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,729840,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258424,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,926069,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1755617408,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,948558080,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,466059,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37695,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1871481,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4292390,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1357992,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,431819,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17729156,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126972000,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234176720,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113488,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,595125,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94937,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,445477,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106546,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95434,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4464,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109619,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7840589,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61345224,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144163872,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,509309,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3443864,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1238770,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3980583,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22695294,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30277948,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2632093,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1289956,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2730212,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2116929,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,293100352,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335635648,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,372998,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2083,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17723960,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7733051,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186107,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119542,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52649476,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28387506,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,806084480,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,430710784,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40900516,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22691512,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34323,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55554,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,654844,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,749485,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3809566,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1124369,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38124348,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6187719,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190571232,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,511686144,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1074873,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1065433,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15619388,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20003376,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1240447104,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1535362688,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2432802,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7337671,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,505508192,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,462977248,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1650749,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2725916,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29042136,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4276278,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22055540,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3690095,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6135325,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5644508,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15772,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,268051,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5083993,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13836784,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46923,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92855,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22122,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23114,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114480,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,782427,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450853344,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353673792,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3239293952,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2393673472,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2083,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428265,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1124679,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,512587,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,817043,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,311396,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2383448,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2777,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,457922,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28631220224,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21523419136,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22102584,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4626664,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46427,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,975081,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12399,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5158,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206018736,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,310475040,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72909,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26483,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21923,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72616,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99598,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1109405,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25051916,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2360629,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1274680,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14131550,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,835403,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274993,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71920,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423885,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22804836,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1296595,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251468736,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,308377376,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1234725376,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2057738624,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4182272,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8659081,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90820056,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207411760,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62997296,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133493400,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31348,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414973,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363221792,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120823664,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73760576,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120396880,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5788332032,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4939654144,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16245270,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7180205,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,624686,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,605340,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1631749760,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,707864384,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5962502,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45378136,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134808,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32783600,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5672720,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7947333,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,280068320,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302638144,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65866,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51285656,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,793,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227968,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,946204,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,693635,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,579939,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31005236,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5588565,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21991224,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14780,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1582116,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196857936,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66486080,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18506702,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22159282,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17060216,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226074,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2394100,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,998977,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3469988,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6111696,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184932432,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73944104,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150589,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99594,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,961288,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4549031,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7950538,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8328273,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2876,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1290643,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14183,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4961931,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3700928,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2864307,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37321064,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54924664,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,462560032,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187716512,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19243,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8128753,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6709121,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3020553,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40376,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15084612,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22431414,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18359656,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200783,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1892094,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50192,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13624516,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140373,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,655149,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4974120,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1822572,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2266764032,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1593145216,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15375,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7193131,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214674,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115373,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,617738,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11507,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28155654,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41431152,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6816059,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1502730,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3329598,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365166,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258218144,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48436180,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138109456,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256098336,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10019,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8432,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,992,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245332,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54727048,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36763464,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11865991,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3543667,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3536451,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175884,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,719731,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2175432,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14707791,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13627104,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42865476,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28904424,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6845,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38392,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,617237120,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,744675840,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376339232,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219347584,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13489,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5084270,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132827,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1135992,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145695616,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235307344,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,465887936,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,822640704,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,529059,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,516053,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96919,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69145,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18650,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5058,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145630,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282230,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235015,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31544,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3075,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1686,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6943,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131542,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129161,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435993,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168969376,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185347456,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49299,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3150225,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22122,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339277,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,948461,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4636721,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171584096,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118295328,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145444640,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234829920,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,520989920,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,552627584,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30141164,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9415284,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,520490464,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,939005376,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107830,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,892038,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148333408,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159467616,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12959816,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10006131,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,867416320,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1142766848,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218542,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2425524,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,727663,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649983,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1099609472,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,772188672,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2569740800,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3289521152,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55513208,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44094684,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,964964,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151681,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120426536,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122163512,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73011,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,882223,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103066,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,442940,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1954703,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20705130,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97606776,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28259624,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20165360,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,349692544,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242581840,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3082593,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2089129,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45435,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50892,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4758958,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6182807,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39392900,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115976248,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21349132,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82024376,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19743040,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97867464,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1955508480,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1797423360,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,904642,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4316548,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1156459008,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2106232192,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2792477440,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1598801792,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254856,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,695414,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7852750,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12389167,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10280513,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7941094,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4892162,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22280122,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5059,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,879,"Western Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21724,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1091,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5139315,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4365190,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,544822,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25771652,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2763552,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1873465,,,0
+H0,1995,1995,1995,0,0,1,Import,40,Austria,AUT,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285532416,,,0
+H0,1995,1995,1995,0,0,2,Export,40,Austria,AUT,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234270512,,,0

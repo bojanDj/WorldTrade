@@ -1,0 +1,1129 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9483474060,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9469857188,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394397533,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137062,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7352,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7352,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2293,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74770099,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122595,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201085,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11591870,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,803864,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3555,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1925809816,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1797371917,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133870897,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30668055,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7161789,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333405,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,642775,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,881395,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119040,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6600427,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3766375,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4319280,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,632012,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9610,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8362500,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68130471,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108408738,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,364408,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1685,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3103383,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4810,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41658,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35884218,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13157241,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7086,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,474061,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18915,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,634753,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6989278,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1011106,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8560,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,892,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,668972,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87093,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367524,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2045220,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206827,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,610888,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81813,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6069,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1276,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60598,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10776,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1970,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185862596,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166830259,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14955139,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,320710,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6281468,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30709101,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10743685,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21616,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12215773,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15140364,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,528483,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113612069,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90459237,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,580772,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3360,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,767,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,868604,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,296380,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,714,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2318836,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17492603,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3185143,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219864,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73927,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3917,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18638233,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132059,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1304107,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3748,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3792324,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6566899,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1035,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44079592,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16193277,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,795029,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1634,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32461,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13067,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6844257,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27384865,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,770364,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7783,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2745141,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13595,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390534,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1008,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,572,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155153,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71580796,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154227887,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60270374,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47582147,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4613853,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,413293,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173893851,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93850437,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2406319,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245391,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157763,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48191787,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2180700,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7277,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22107,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122838,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1176,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2773,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,890358,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4966488,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,440676448,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228209843,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6593736,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448245,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,294835,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72061,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205074,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2824,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2227387,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402723,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11466269,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45493867,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1617738,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3769502,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42494,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1735632,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,568277,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250343,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282283,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79305,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,934004,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113901415,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139310744,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3489763,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1812389,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1271653,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99805,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,673069,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2884,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83153434,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94715679,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184012,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1182469,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29125388,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7971,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12928362,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30535715,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8203067,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493613,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22234594,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,999950,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138504,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205571961,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162680682,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,558207,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3232260,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11367984,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1472469355,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1520420347,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11600366,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,986322,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30281932,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1763193,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1460654,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21916,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3707,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330976,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153004970,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,400416237,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,375716,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11718689,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35128,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30338,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5361,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,760236,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4365842,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1911348,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649606,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34192,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,957486,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1253123,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85539719,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164044970,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1171764,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,957,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,651446,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240122,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1186,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83824,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2739273,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138239,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3359236,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91271,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1344,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327894,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18728415,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2444,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17731124,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118011444,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43340,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237651927,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159274884,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1992898,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,492,"Europe EU, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258184044,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2224,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,849,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10313815,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,842519,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,897520,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72333406,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9690613,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4913,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14290405,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1701865,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233436,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40944,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22844612,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3661,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103582243,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84632786,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2326917,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,731448,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8243,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146193,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23406426,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1156702,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43441,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6655339,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1009321,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14779,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1326983,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,581,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8825,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133699,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56117,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20415,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4077075,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,608379,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17838,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3202919,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,550849,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71102181,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2716825,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227183,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,582,Fmr Pacific Isds,PCI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1648790,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,582,Fmr Pacific Isds,PCI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282246,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15737502,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21189293,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6808,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5189172,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1589,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5237443,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38166293,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2173218,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40485,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2025648,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32106502,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13132,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12675802,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83483186,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,356096,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10094,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1653464,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432970,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10712713,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19516458,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5535,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,800176,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1925494,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2190188,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1387966,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8988562,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,687,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74524,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,861998,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25636,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36328,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5695,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,320557224,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97609447,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6344,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49630,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44341,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28723876,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67183580,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228844,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134791714,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119421390,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11110092,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254533,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439765,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8330,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6224889,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10083160,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,443075,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2659224,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1772191,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8567,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,720,Fmr Dem. Yemen,YMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1871276,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31460532,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41605405,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149280,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1869,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1655335,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16723,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2293,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256160095,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19964609,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,375399,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104280373,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26157155,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2972694,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,434345,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8348,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51824489,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82139801,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1261360,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34380,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31415,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1594,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18158,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4491,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2195500,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15190931,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1234891,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73107,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9374490,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25416,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91355604,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20647374,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14057,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37852,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1722261,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6220826,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26050204,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56747,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,386468,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72817,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1975,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5377319,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174459128,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143740,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2167981,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14745114,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,691779387,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,665955885,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18181109,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,724828,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,494888,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160162795,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23522682,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63494427,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1695803290,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1242856645,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41545556,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,544,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19542008,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,798966,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44863,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,663953,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378768,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213783,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34685699,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15349,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1065901,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,892,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4308484,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26696827,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4172260,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8508992,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2322348,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1242902,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,925,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235684,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40309,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1122,,,0
+H0,1990,1990,1990,0,0,1,Import,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1190604,,,0
+H0,1990,1990,1990,0,0,2,Export,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36096407,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18524363,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13957637117,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13745414860,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,483502776,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151443,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9075,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,992,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40707623,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25240,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94963,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13365,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239646,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3948,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14328620,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26261791,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182491,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3010757415,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2806585854,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174733547,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59728095,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11000188,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133269,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,297650,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1820279,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4081137,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10668647,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,790482,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4599245,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14968318,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10098,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2007,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7784592,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9170,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115458494,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152930380,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,965333,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,719307,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6753658,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58395,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11033,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87228,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2512340,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58348977,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42357775,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9013,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68543,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74488,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,592183,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11664667,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2030904,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17843,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10764644,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10496,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102584,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235992,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,325384,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344676,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67787,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123151,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1343555,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5251,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,257250,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242934305,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223046848,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32952417,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72979,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30024,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7127232,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59848383,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107308,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18903216,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58638467,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7455715,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493825021,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348148287,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,991039,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2983105,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2688601,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3626,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1049625,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22325310,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2943123,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,383384,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4142203,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43450,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290985,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2796145,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107818,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16146785,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44361,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4898117,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8317,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6086695,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1790457,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87901734,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33415897,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,728721,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189288,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7135615,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21842721,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,842253,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,824,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7328668,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34733,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51236,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67554,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28790,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1640,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88339,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33835379,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120517253,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17325428,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78842805,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6982806,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258741,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,318836360,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145916925,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1507328,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,561218,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,430943,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54868671,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2585472,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1242,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1798,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,664406515,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329593830,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6540802,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,398906,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337970,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113363,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101564,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15431,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2879925,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,662943,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3814104,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26287266,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26222,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126397,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,905773,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4051147,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1087878,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22506277,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38559,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,560506,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4143599,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2776,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432573,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7391,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2495,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39169,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10199,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149528924,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,417035356,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7137393,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1737273,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1133597,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9106,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4132139,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184893,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61462,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171271797,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199287941,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,727182,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10277771,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53685236,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28844,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42381457,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14749536,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,364177,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28843598,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2802314,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86650,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345825377,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197187844,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2501923,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108910,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3496434,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3900418,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12934123,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3498,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1935931940,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2229462737,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5613186,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37127,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4400480,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17213709,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1644970,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1915817,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31223,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15619,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238494599,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,708736111,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,666376,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10359199,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1908,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43943,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327264,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165606,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120657,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,900106,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2100,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,725152,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,797818,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,954,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17939,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1722993,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182371,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65691,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1576352,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1153551,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,656,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72083,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5713,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2161619,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,859137,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245610424,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287285872,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2734733,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10696,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1979075,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161329,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13513,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69137,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2493040,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9868,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3241025,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6973,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,430209,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19099477,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31839,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20191360,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73083607,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,525,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363365696,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,397911461,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2030161,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,492,"Europe EU, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258450691,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10600,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12040,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6031,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23074703,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21623990,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10765,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46854619,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7387445,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45428,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19696387,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1583386,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229849,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193104,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33659950,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166647895,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69931573,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2045335,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,882407,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,685,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191333,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50756769,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3222935,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29839,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8834690,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1228546,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40851,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357138,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35929,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,523890,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,393791,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4988753,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1930938,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4903,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3654337,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,506930,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28279306,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6733273,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274792,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16557,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,568013,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31422,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1568,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,393738,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37055,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8082,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,568529,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37277,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40662,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2816,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29068035,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13465085,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35393,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,546630,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17660411,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6564210,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51221566,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50273489,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3099670,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167289,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168991,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3008339,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59196378,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5574,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35565257,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137744009,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1554042,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237466,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15605,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6138144,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3903587,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16143,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13785484,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17022281,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11644,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4395,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1650001,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1790904,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48864,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4460389,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,915675,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259656,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25235,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2994204,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113916416,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,381914,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54228,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194431,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26633,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1509768,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149604,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10692,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180731556,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107283854,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285482,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2407,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2621511,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134636,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14033,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75473650,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79887532,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2766970,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270512137,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192119802,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11255521,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45574,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104196,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9033213,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39323466,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7181865,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2278287,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270706,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3291,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54538210,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44044290,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3072289,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2484672,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,479933,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28790,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55699941,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65026638,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258219,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7578,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1124,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239289209,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36000230,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1418766,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133873901,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44456476,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1146022,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1061,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3492820,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8799,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105201281,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183929737,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7142063,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97771,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1163448,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25087074,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3621237,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1469046,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6440156,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1837,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53557754,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42613587,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334411,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75473,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3283034,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11515385,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102207420,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,883166,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28621,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514011,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102562,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9658,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85460,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1867,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29153,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,459607,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,291752,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5520,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165620,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2309300,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29589510,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,818081570,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,832266433,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15769234,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228760,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37313,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1297,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94740832,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7473873,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63517897,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2610374475,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1376091138,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77200930,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432236,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28054553,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1407253,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175390,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6426373,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51182,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,984,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68763,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46802504,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3764270,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70720,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4245069,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46002722,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4247077,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91328,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8520707,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19436,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1399872,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3426,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12978,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3123,,,0
+H0,1995,1995,1995,0,0,1,Import,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1354853,,,0
+H0,1995,1995,1995,0,0,2,Export,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74461333,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40490665,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1009202688,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,509210752,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1619822,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215000,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116767,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1569,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1390303,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283142,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,471328,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5715881,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17490068,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30235,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288036,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5366955,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52906,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3162,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39203,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13973023,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5104690,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4866,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87094,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,717,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264286,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3347,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,745553,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1558237,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1535115,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6352886,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1857955,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82185064,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17296618,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1004780,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2880916,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254518,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7529,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11532884,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,694265,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202585,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3123938,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7125606,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1337234,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40459640,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41278124,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2669005,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1236030,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10692868,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9958908,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22623488,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57994840,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13934,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13699,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79588568,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10399690,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54670,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,470162,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25860762,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14003610,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4312007,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1572082,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7176,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19594,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23224,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207776,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1477532,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6058,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8196580,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8009123,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44759,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,794826,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50422648,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6966768,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188113,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9687692,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2932615,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15494,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,629,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20199,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31507532,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8948847,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20895016,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1288060,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51000,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6686636,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16835152,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3290228,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15948,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4002087,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88424,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48598,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1746574,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,876089,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56887292,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2095846,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79731,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149287,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,972620,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15250,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2611257,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,301672,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5000,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6899,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6987933,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279417,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12243,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75479,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,766409,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44839,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64052,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67336,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11729,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5399,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23732436,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39513568,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42102,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21238,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2671840,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10783,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5439742,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3173923,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,671006,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152198,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10997,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1905364,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122662,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,952892,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4986455,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9878815,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21110,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2360,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,304340608,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214421440,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1666,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106567,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130793792,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2405430,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1364,,,0
+H0,1995,1995,1995,0,0,1,Import,558,Nicaragua,NIC,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,787552,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84703,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344552704,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273417184,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83911584,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1754129,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12323842,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11870967,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3400,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3400,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149891,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31215,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94424,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13472,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5831179,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81557,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55045,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1540961,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45229,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3815451,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5983,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5983,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,856718,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7007,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7007,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50758,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50758,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120067,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8741650,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74013,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28698,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1882,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9195,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9195,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15676,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,469852,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5140711,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155134000,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1641855,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,360920,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,700,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,700,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68119,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78410616,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,843375,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,516914,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19548,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19548,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,879041,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31074,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22965,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1738,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1738,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8811799,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141635,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107095,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4293504,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6068336,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11269,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17169,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1699,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1457,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,640,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1819268,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153890,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7442,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7442,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123740,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130901,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,537201,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18234,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4454781,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14119,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,600,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36567976,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7277926,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472205,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15846913,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105776,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105776,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35809,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62198,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,429061,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,676098,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9275921,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9118444,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12512,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31299,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336789,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,633258,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,506737,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60771,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16002,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16002,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81411,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,604223,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1211540,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172064,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,600,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15229894,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,734881,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,722986,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42117976,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74782472,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55743184,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52549,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33891,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33351,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11393742,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,614,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,933710,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1209444,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1116,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159300,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,684298,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6951,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6951,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,726116,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66533,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59567,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3253595,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52685,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143072,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3903,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2757133,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240567,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13109,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1008557,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,466514,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78868,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,825,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134274,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278861,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1240253,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1377990,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344319,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5190,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290895,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13733,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10731,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148715,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1041,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22684,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11281,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4331,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18810698,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51304,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50162,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,962,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,740,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14288636,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,271461,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29926,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1463864,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1981474,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1064962,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55146,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61382,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,758,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,758,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42874372,,,0
+H0,1995,1995,1995,0,0,2,Export,562,Niger,NER,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1483628,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,562,Niger,NER,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1246905,,,0

@@ -1,0 +1,476 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,633307520,,,0
+H0,1995,1995,1995,0,0,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62929224,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6962,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12528,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1729482,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10190,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279812,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390257,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,658309,,,0
+H0,1995,1995,1995,0,0,2,Export,60,Bermuda,BMU,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27469,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25956,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17060,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387134,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223057,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337730,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7359,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6695,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12746,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,599,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26531128,,,0
+H0,1995,1995,1995,0,0,2,Export,60,Bermuda,BMU,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46663,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20677,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2621,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24195,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55365,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182628,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,926731,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95040,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,703,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118295,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184774,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4500,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80335,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2548428,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,369467,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16668,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16141,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25406,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31486,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8079553,,,0
+H0,1995,1995,1995,0,0,2,Export,60,Bermuda,BMU,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1512,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2866,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2245,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3413180,,,0
+H0,1995,1995,1995,0,0,2,Export,60,Bermuda,BMU,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4560,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56163,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43114,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29389,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9212,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3035,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4736712,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439807,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26420,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,468815,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10885,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2711977,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139529,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4793991,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,892349,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25605508,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48216,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239409,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2005144,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103251,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11710,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159832,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2286,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6353,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,406257,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1090391,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4190,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10994,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7003,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4215,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5128435,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4799666,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20370182,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,536,Neutral Zone,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,884,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4535,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,549153,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2794,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11985,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,718,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131339,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48078,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339960,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,588083,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97077,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10614,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,359566,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,504,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15379,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2750,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2067,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11642,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1507,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1227,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2693,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14041,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,295360,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135190,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1440,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,592989,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7036,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1830747,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17271,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8629826,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3111988,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9957,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,324664,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4182,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111702,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,599,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1375,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90993,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2330,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115741,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36230,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31801306,,,0
+H0,1995,1995,1995,0,0,2,Export,60,Bermuda,BMU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3892061,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28157,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,451109408,,,0
+H0,1995,1995,1995,0,0,2,Export,60,Bermuda,BMU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31254080,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46970,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10801469,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16610,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6291,,,0
+H0,1995,1995,1995,0,0,1,Import,60,Bermuda,BMU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,776824,,,0
+H0,1995,1995,1995,0,0,2,Export,60,Bermuda,BMU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27703394,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1396248576,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1181212032,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3135,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16587,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78408,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42798,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8870,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117386048,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142649968,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1726815,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,609278,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1439137,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124109,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7690000,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,705,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33744,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21677,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54718844,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40392104,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6837,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4125000,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30738,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,709490,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174176368,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23438460,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1291,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28440,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,511,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1243,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,988,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2435,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22412152,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5714654,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28776,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38095,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228304,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104717280,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25827542,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14460378,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169500,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,546,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43705,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22930100,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64366896,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,542195,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8678,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5306,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367202,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19417,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53703,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1479744,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,399694,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22019,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1925854,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136763,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9688,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38052,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267953,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4109291,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7345447,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1021254,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13550,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,539,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5063,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11454,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1944404,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27020,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13441319,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41231864,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1406,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1283,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8935,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69897080,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57071824,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15298,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3000,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26611,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21694,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111219,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3012,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11323,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190445,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130670,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6919,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25930,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2000,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39784,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4872,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1055799,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100292,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218938,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10313,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2489,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,627313,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16629,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10193,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2419031,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19367,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1418642,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112056,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36894744,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6781437,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14489,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171674800,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3651622,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15129,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,301683,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28339,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18044100,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,733397,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1205,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34635,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6125,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,269709,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2534290,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12968,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14199,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33908,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19434292,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1396690,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9729947,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306420,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51020,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90980,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6065091,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4095198,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,542292,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3595,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2671766,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26326,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13159,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32944,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11003,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,750729,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34201,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142999,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6353815,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4799786,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1317887,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4996964,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73021424,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144363232,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82409,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,407636,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410177,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,303877,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326579,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229873,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3949119,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82778,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74988,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3238,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1385239,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1635140,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211678,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,375928,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1050,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56292,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80343,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35692,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1993635,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83283,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,599,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19296710,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2529818,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12636,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3149,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38733064,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106592,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9371250,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81001720,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,966030,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,443716,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12257,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1142,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,966,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118374,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279807,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370212,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50223,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65727,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26228068,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153295664,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17052,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,312591008,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,331665888,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7588,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4655012,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2047128,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10921407,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5666096,,,0
+H0,1995,1995,1995,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,974997,,,0
+H0,1995,1995,1995,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4583479,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258509299,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161680154,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18759957,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26734,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146952,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11137,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87334,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14107,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14107,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58392,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2006,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2006,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1134,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2168508,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1049266,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20000,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128942,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30753,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1373412,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7871973,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6935983,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234464,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18502,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7450,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13269,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16907,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23000,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23000,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1952223,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,846,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,846,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,690326,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6542,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,830114,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66873,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66873,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4578246,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65505,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4183,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1812404,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44189,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108412,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54003,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32287,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32287,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136626,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1782407,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17070,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17070,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10000,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10000,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96731,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,802835,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3300052,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39498,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2787912,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8416417,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74413,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1822,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6931939,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,429905,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,354818,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74974,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31271,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33467,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414010,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112794,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87341,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,702613,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12847,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129517,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1584859,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126484,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68347,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,712981,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2041727,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3243,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4618840,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2029903,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15100,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3393287,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163378,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20304,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2250,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,231948,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,826,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1057,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,297261,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70612,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70612,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28465576,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4526132,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3807709,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1776330,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13711,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10000,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3399,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53488,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2457005,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501491,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12549186,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,861437,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,861437,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278520,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12347,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12347,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37534,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,507,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,851681,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94901,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64877,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,929,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18000,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15132,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2764,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1674,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41500,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2037,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59685,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192236,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38893,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266713,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,425058,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79483,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,521878,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99055,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20102,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,408736,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57662,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52938,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,709297,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,547926,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24715,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279214,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5616310,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2073592,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7655,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8785,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16133172,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68468733,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2588733,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139839778,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59085181,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10128688,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327075,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53183,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53183,,,0
+H0,1995,1995,1995,0,0,1,Import,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,497920,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41174,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34141,,,0

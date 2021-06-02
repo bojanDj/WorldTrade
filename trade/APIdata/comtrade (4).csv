@@ -1,0 +1,613 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1901305728,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161973776,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6385,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16330,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4947,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13108,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,576349,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72192,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1013033,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150772,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,604,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1930641,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,881513,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7050505,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,471968,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266135,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2772,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31254394,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4365821,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,392100,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,874,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27359520,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34041,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182704,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9649,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17458,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228784,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2716,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4751859,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,708924,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22952,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199469,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8669,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,571721,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15623692,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2372523,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184925,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7788,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1145,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17763,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169724,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1431,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,744314,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344590,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33547,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3048491,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,681,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7549390,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1544,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2354532,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,309670,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4311384,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40648,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,610164,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23479,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370766,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3345942,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,624473,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1213889792,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106560624,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10697628,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3462378,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60765256,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,488575,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18665,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1586,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,760205,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60432,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163272,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,799528,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,413753,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5372,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,705050,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16431,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,547,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,747975,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,301692,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4165998,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1367078,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,518425,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2458955,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4310720,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147409,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1139811,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,564040,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2497310,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64986736,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7405253,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241206,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3350,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1955947,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1761,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41641896,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9218,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14866,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48651,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14448952,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3196,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229317,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15517,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3973,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93370,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1291980,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4584761,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7182,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1213312,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45919700,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17048920,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159112,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78900,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,712325,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262648,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4719662,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5070,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1948976,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24937192,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4884,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16500463,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175876,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,626137,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223416,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3963,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5896924,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60478,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12623,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3610945,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2058,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,425861,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151578,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,571371,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,488242,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344468,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4311072,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90188,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37447,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339192,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115399,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49888,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15989,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157906,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194836,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47522,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40416,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90649,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,476769,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237623,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6043,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1426084,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8164692,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121960,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1270440,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,616120,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2002,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1721,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,703230,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12086,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42075,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35048000,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154163,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1208027,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3302762,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4431,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3730755,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409243,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113424,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4452245,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23877,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70340856,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31054,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,232573,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2002926,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1315054,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10116,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86194,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51090,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,484570,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26067702,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3597594,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18653,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,752592,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62417764,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5518351,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2719,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387392,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13498132,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71702,,,0
+H0,1995,1995,1995,0,0,1,Import,312,Guadeloupe,GLP,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4558291,,,0
+H0,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33028,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3292444928,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1935511424,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5520,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34050,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85652,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3046894,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35417,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17281,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21462656,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,841266,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570893,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1302195,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3685804,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1031738,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262851,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217830,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8084,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,271666,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,446160,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,574795,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,964660,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2165031,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32431888,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32704732,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38514,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,663621,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85839,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6524,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17859,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50805880,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,946700,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1009420,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3912380,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25600,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,389333,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,426608,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2364,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50291512,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22185312,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,634780,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,705162,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12432827,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11011708,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19035766,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3585116,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34048436,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32086770,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6561786,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69256704,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100993688,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1011338,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1321084,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,347105,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1561284,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,928149,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8359512,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1418037,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117613,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,645952,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16787064,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29852348,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,894222,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161167696,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,268853408,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12000,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21298,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1892354,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16053868,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21245310,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21540550,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6905,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225464,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116051680,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112519952,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221638,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195605,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41145,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19000,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127267,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11074,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5114188,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53218224,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124814112,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22900476,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203095,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85482,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41130,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2021108,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5300,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13356,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9423084,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1261714,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5199235,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2529846,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36835596,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23331590,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102673,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1963549,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121128080,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53503856,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25611,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1010747,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5010,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,882482,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34807308,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1521070,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2227168,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1096370,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1890739,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410515,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30399,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,308167616,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44995304,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49944524,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52392200,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4894678,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5000,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30208762,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38346176,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,989949,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19755,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101951328,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,324942,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103523,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8941372,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363823,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7674385,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70972544,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17600,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4631109,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1894371,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,560544,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,359184,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86391344,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37000812,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,725660,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9217161,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28605256,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210857,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11550,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1084978,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3512062,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,516101,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4667247,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,488115,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4121723,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44000,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24709552,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5565162,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45951,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121123,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,236925,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39138,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125656,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19792290,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2984300,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91600,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2693565,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4145429,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,509937,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2626713,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4256610,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32202034,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11923150,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15000,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13315,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226993,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11134826,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25559466,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15213434,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4409560,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2631252,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,939589,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134731,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1243723,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,667495,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4930341,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14358,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,792232,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,633,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11961,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,923632,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39483708,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13187328,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1478397696,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,605813056,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,524034,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42811,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151730336,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37802300,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38332,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221921,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,763891,,,0
+H0,1995,1995,1995,0,0,2,Export,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283439,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,818508544,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,701860800,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17588580,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,515818,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34578,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9993,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99030,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370073,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439808,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,464846,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4475006,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8729955,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23411,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69071552,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23610172,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76827,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36232828,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57930812,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,572063,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75076,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209140,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4383481,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1071,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,480290,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,744154,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27650728,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2302674,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25216924,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122533,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50366,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17076,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221229,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8487,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2534,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241704,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14500577,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19461,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16931,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153890,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17335,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2428,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,907,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26848,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16728,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11251,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3074,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61417,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12677,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1772082,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,914238,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1408,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1408,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97683,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,385417,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,372813,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2367738,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,325379,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,325379,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4333,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14717,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4536,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16707,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7776448,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169216000,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53077568,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4393820,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22416,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21336,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4493332,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1022662,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1022662,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1228726,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109303,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71169,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18205584,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24009944,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247414,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,321337,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72566,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69047,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3339,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340320,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8389752,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7530,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2212904,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24151,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62900,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4452,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28694744,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95468,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30047,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2305085,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3238,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2758474,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132955,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25069,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,759826,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82430688,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173117,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1253,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1253,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27085384,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33841424,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204249,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87553688,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3425821,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3396187,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4435,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68158992,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3650786,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3649066,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5006,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10952,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1518,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,510144,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1835009,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90802,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90802,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2092,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1257190,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23999,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5316,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193776,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58634,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10322,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1240,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144538,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67592,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163447,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263998,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387620,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3951,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368830,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,338914,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5890,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,623126,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,552555,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4946,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4495993,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3730,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10357778,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3454552,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24332,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1880,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16434,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13587,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29665150,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7824466,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,803123,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7540,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,536,Neutral Zone,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,819,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,536,Neutral Zone,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7334373,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1364,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163587,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,560467,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24524,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24524,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9796268,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71793,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50376,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40274,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17186728,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278837,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,809,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9631,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,398382,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1518,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211883,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72450,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39626,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32526,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27197,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,735,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251802,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12343496,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1043211,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30221328,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14114,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28051,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26794,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1441517,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6780804,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,916620,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213140,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11522,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,846881,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118129,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118129,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40753920,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66649,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5433856,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37177,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11437840,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99154,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,425242,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4926,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22401340,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84499624,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1063673,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2290497,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19189664,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6823328,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31626,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39184,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27409,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1067377,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1575618,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1518,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2761337,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60407,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4091128,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339065,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241534,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76536,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12715227,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21547406,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177302,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56199032,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151125712,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,382568,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48178,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11334,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18303,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1615328,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3224124,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,690,,,0
+H0,1995,1995,1995,0,0,1,Import,324,Guinea,GIN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,990662,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18962,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,324,Guinea,GIN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8959,,,0

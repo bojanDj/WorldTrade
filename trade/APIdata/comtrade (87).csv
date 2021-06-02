@@ -1,0 +1,283 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270489664,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178939376,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125902,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3267055,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363886,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41226468,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59160764,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207267,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15663,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81046,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,686265,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32241,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10598212,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58274,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10374,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2141328,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1477560,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15325,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2727,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514870,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4602221,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79433,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250195,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41341,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36396932,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1910470,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11772,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20608082,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4816251,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8239,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95133,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3771,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1192355,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3373,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,589606,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3365951,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165740,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47972,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10926117,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1391888,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14176862,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30704,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10617153,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2638228,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2629506,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,406273,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1283062,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39936,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,920487,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5014,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,662771,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8527,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,962,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36505,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15067270,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1566085,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13402,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,900768,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,313275,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43813,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15148,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130863,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67454,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432447,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117405,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,350076,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,729067,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2390260,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23244224,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4073024,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81876,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1971116,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87195,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254539,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5260423,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4345529,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428432,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104280,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292930,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12626,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1666835,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18957640,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,462223,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2387563,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18252,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423059,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,672849,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,976551,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6826,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,383885,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182782,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10193951,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32812808,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6844380,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3351507,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11873445,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,446959,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17026,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8966087,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62521,,,0
+H0,1995,1995,1995,0,0,1,Import,108,Burundi,BDI,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,511809,,,0
+H0,1995,1995,1995,0,0,2,Export,108,Burundi,BDI,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45968488,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,483809088,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170945472,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9729252,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6046,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1853,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45328,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5929,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340215,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93114,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,449488,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4814,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23362888,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172445,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63460,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2906402,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1647131,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4241,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30172,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1714246,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1437756,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8498,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8498,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,129,"Caribbean, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,810167,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16970,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7378,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22537,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37313,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36287,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22668,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7673887,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1604,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69645,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3061,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37831,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,961401,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,470425,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,641454,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188959,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2705556,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70259,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1968,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1222,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11463,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102587,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102587,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45699,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126241864,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18015032,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276378,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1628,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58480,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46576,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12260,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12260,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15437715,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69813,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9651,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5910646,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3952145,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,671580,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,635,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137613,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14365,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13317,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10310,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1499715,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85087,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182027,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,418100,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227305,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196590,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2407877,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342574,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14943577,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,708319,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1196,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75850152,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119448128,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3910959,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4175,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24822508,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89643,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82597,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117464,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75582,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1992822,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,875927,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8335,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281480,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28860,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28860,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7197,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1049,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18563,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18563,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14783,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155887,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1531,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1163918,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3430324,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2632580,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,503815,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110766,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108670,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82258,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3657356,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39107,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,608241,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18212588,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7108401,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21003,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1288,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,742054,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4869,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218430,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2213648,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,912737,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19812850,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74807,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3564,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1372492,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,661,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2340249,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2002464,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15873,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37012,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,481226,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24007,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1063505,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,601543,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165312,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111701,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267107,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1971,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2366,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159405,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4437,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6128565,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234884,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132216,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14467181,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9326,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9326,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409647,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8447481,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9610,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9815908,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2705,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55280,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9307987,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35474,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1853,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,822284,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1812,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2378339,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3124321,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14149,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1777576,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5282186,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7856583,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,361520,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13069,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,923888,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,456834,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,802,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168473,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8315882,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251766,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53375,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15695994,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23552108,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47592,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4641,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5643495,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1253,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157999,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14563,,,0
+H0,1995,1995,1995,0,0,1,Import,854,Burkina Faso,BFA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2005465,,,0
+H0,1995,1995,1995,0,0,2,Export,854,Burkina Faso,BFA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71604,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,854,Burkina Faso,BFA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19046,,,0

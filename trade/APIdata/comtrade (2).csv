@@ -1,0 +1,669 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19777003520,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8059650048,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90125,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1557768,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12271639,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17871764,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44003112,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28737788,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267694,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17877,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402087,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1558259,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47224628,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,851452,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14018410,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65557272,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270789120,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116631024,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4200616,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11142989,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278573,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2341732,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3116450,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370304,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31982,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,739265408,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163695728,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1616243,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170307,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4404,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176610112,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2751094,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137080,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18813,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110940440,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53112520,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76945,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59752,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38995,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128530,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36425,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8875000,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1712213,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65709620,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47217664,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41525,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19117,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1520959,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34382,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3854475,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6563915,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92118,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,298780,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37822704,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448343,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117684496,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32989728,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38715,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25306,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7866803,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196390,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8287,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5718216,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76581,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3450088,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1223785,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63823,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59869,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2679430,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202922,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,589943,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15954,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54330168,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202046432,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112452272,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31704410,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22145,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,252744448,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67063400,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281792,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4709,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204699,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2744136,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10744800,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,317383,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16518,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3550,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1938439,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1012498,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10891241,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4533580,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23256,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126050,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90997,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153180992,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60178796,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1599971584,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,771638016,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250787,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,485268,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15570017,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20200,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74419,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43879988,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33016588,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4069239808,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1755985792,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1724899,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2674499,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57629,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109851,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1563,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3085359,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44915,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92558,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3062,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18213,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,420968,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148392,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4690601,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16907,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8845,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,297856,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1568877,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5946636,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70905104,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11375685,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61068324,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22731588,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18298700,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,307291,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12213436,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5664343,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,379069760,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19148220,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81132432,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22889112,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119827160,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12813031,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86877816,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44894268,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3045529088,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1374592256,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80170736,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8145322,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,584183,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221751,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1171372544,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78000160,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10122048,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10347249,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5845995,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428400,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,964989,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415616,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119863552,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7276567,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68587088,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11172762,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44844,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2710975,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49426496,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9321463,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16432301,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302222016,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67022492,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1182789,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1190541,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79882,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1759329,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47878,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27849020,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4063299,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26992,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25278,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116314,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5009168,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39275640,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63391,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7711372,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166252,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109904,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5537296,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29073800,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4507492,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166319888,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12967549,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27688730,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8905457,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2404509,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2243567,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,923827,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1884359,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6712,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189124,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1331179776,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278128896,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,509812,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180681,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,510569,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43581216,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5686239,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191541,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,300300,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36824,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190080,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1804313,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27878714,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86212032,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37270480,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30572496,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,989618,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7968757,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39799796,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33647,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54572,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1661378,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22391,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1980163,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181175,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4816906,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3102087,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65074336,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31588300,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82083872,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19976056,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1016742,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6735752,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2577390,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71934440,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59447960,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65828,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3160,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86959,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107041,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,797135,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6927,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,412523,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3320559,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212459328,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95469096,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15230769,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,881673,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104971,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450245,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23205,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29505188,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6335114,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43526308,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12242798,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409373,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11089130,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,572925,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66841888,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3744627,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5965494,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165503,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,720,Fmr Dem. Yemen,YMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,629109,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,399166912,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118659680,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5360280,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5003071,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4628,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279915168,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129462760,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355295296,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109677368,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14038070,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24235446,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26048772,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12190700,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1602463,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1618871,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22057,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,771041,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29686662,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24046300,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34983912,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144308832,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115128360,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15060,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,681818,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276257,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,358460576,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126956176,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39039728,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64200968,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1041032960,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,586344320,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1103092,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157483,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22168516,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,728344960,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,451041184,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12748,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19949,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4968057,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281447,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6942087,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2071304,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2359,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340404,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5570994,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276279936,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180572544,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11105321,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3956,,,0
+H0,1990,1990,1990,0,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16316323,,,0
+H0,1990,1990,1990,0,0,2,Export,300,Greece,GRC,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47226552,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25926758400,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10954619904,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55601,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75587,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37483880,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260975264,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17897152,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22754248,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44383,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111918,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136432,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,933683,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4296921,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1087744,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2244369,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80987088,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11412254,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10913306,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48486208,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,268471360,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149288032,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36544,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17597018,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,692957,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2005272,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6708014,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6344748,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85220,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8720644,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,903,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108156,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,938222848,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212262656,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1032,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1380713,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1244,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148923,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1218686,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242809,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193450576,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61958288,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,373271,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74025,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17428,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69121,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18067,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,483740928,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,446973216,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189484,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119902,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73681,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4520064,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3169696,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355728,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10207283,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2507444,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95307744,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42834864,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175834,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,838,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195558,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209141,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42901,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5069138,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2596406,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,489028,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77378,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45737116,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3344975,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336989984,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16542669,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47716,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52790,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9926192,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1910979,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12809,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20308,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1913675,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63622,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3045921,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,511117,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27914,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1597658,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177990,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14186432,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13782219,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181174,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1171837,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75054896,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322383584,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92091016,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53331004,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1552864,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374759584,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86014992,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140906,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44387,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86122,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8339142,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323769,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123260,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415772,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22861,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1106620,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5370403,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247211,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1416358,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,960773,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22351,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13269,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,568739,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207514048,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62750376,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2106251392,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,597374720,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1530,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,354174,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168986,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23910524,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38951,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5378424,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15202196,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1041527,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4289685760,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2421818368,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2321173,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3142888,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35066,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46959128,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4894,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4167433,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22569,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156292,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211649,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169306,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2638735,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435297,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29203,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,862,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1096941,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1208865,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6326048,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52963608,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33473550,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66961704,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47039000,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8943981,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,591806,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83611632,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52437068,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,467985728,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4945917,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3118,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149481,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265974144,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35145056,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129140272,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120624576,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4848970752,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1543953536,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56135504,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2186271,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10690,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,437100,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,682236992,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84371776,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,933227,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10017621,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12944665,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18212308,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4781769,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2038550,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2005528,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2373223,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,343070880,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18119550,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287701,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13907793,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148474,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1483995,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116312,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72164,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4710257,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183796640,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,745412,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1653775,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6863092,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19883492,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157776576,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35191728,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1433706,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4292205,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1185251,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63738,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,677964,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,590815,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2618414,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95415,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62323188,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3759767,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238369,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68870,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3811,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28196,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4338238,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101793608,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223861,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2370367,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111324,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,391199,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2079269,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44782472,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6562213,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150367456,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24130974,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17420,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26962,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5100712,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7886160,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18890340,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13554943,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5608,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1130079,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1572661,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62323,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,441441,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1796760320,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,297208928,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23435,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,508905,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,979972,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22698944,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2961953,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3394,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66316,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16464089,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153190,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4209693,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5980441,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57272784,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33406432,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4694284,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607317,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30158050,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5795620,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76471944,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40858444,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134371,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81213,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1122264,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2448028,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,795806,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11074107,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12586047,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66322704,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85336560,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90004184,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64912380,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188334,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19337,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8312,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2238062,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35901,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251827,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134211904,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180231536,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,703033088,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,269821056,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50350,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,535,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57611,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2156,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16955,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,296414,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9209632,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,268884960,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83750112,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12594142,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1237115,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7816,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3870583,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,795538,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87425864,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33152160,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60381016,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27248776,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30356898,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9628528,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4866711,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1340389,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29871664,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44540844,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201956,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17488,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64773564,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14779088,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7482354,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1915255,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,876331200,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378796960,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11676848,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7962784,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57687,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,379703744,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127898384,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439785248,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146074048,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57443968,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40689392,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3095182,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173030,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65722352,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17473280,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3985015,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1487488,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2503873,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194808,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4615889,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40671056,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36739720,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51064540,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209667072,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,220972944,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11880383,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1146765,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282681,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26979,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1893825,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,433799,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88091920,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103162920,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14664359,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36633916,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323301312,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81004328,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1683312128,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,667498432,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3460934,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201735,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6773,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22159080,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,840328448,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,343726496,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15305,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29344,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97237,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1050057,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4593388,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3042670,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3886982,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3322069,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1534636,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8396246,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8337571,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1084547,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21789882,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31000,,,0
+H0,1995,1995,1995,0,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6566468,,,0
+H0,1995,1995,1995,0,0,2,Export,300,Greece,GRC,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11748245,,,0

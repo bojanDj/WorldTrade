@@ -1,0 +1,208 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10791265280,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19093022720,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3300,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,558463,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6629,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49257,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,321545,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292884480,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35968856,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5394923,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,441228,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17167288,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1342662,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1094827,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46403300,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1731878,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6570676,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111754184,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61386356,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195000,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30840608,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12679405,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8753209,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415488096,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1683898624,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148653,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21512240,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,702275,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1484444,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,220240,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,324098,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,457281408,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215746016,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24977,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119673632,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138718576,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,441575,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2293696,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,818757440,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1423196288,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27970,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10517535,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129445984,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6322,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2342020,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111742784,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41240,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1119025,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29493664,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175156,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188182,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,726523,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3326856,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242593440,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29547328,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215197632,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10384607,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63824688,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123244,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1941952,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29278546,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3547359,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249668368,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81660792,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3000,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1031487,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,521244096,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345139360,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,674316,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4444311,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,848999,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1129020,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139135,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9342688,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53616784,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143005184,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1859246,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7690382,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18412172,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273022,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22467644,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62012620,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6465300,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,800370,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6585,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16432853,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1869022,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2240881,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11486629,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,922194,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19628482,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1483392,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323705696,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158050832,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6794000,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1754454,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49023936,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,473669472,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292774144,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52083,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35397,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102474144,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36081808,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16959,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244255,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2209602,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45552,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,638172,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2375,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23046,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18626128,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,478820,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31600,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9787,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5132132,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7648000,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,351605056,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177601648,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142667296,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18124236,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54367,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,438301,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10685,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135287408,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,317504736,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45520272,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,927230720,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53651832,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2314215,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18658072,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31878,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11240279,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172748,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16930814,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10534769,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2849046,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200919056,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61802376,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126828,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82938928,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1211423,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154929632,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239407760,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2554146,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,737011,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12439334,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,510658,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8170752,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33860732,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3673549,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33635,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12818050,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41940524,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1104,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217757,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3434858,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305308192,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,434431,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,600543,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114675,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,487858,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,702007,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3465570,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14965549,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5836414,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26017302,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1399238,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83017,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195138,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145234,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27034872,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,934340,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99579,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249991744,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78232744,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125512,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,388971776,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30454388,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104233008,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93789848,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8730509,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,997362,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33983,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6820695,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1677673,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22335652,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75881376,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67217,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,657766,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1681446,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18489882,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1663184,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75445,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191512,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8391000,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217033696,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,531774016,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4594488320,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9645699072,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12316132,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16906460,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,879,"Western Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11433,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25722,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,661086,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5662,,,0
+H0,1995,1995,1995,0,0,1,Import,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1052775,,,0
+H0,1995,1995,1995,0,0,2,Export,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402265888,,,0

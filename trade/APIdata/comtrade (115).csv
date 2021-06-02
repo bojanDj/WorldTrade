@@ -1,0 +1,1181 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2634112512,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1912600064,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18908096,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20288,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1832135,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3624,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,973,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46426,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,790074,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1252838,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43375132,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24216564,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9378,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3585421,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4014651,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3636,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10911222,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2194531,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1591,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8921026,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10299800,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,495901,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,483945,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,550978,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56660776,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96895744,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6794,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3174,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,998,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31218,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2593908,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376033,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4407,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32216,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74717,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28954,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,445992,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2123419,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6860575,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2698,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16046,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18941936,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29003688,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1098,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,129,"Caribbean, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39176,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,129,"Caribbean, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214066,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23128,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62411,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6306,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4063577,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6954910,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121197904,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4361425,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1183775,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1515165,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,665415,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86389,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3666783,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12895,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1462476,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,663925,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1446198,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1427009,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,732,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7938197,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6603872,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8575,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2625,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7188,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,452761,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1566350,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22218,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1169057,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5216937,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1019229,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42368852,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43670680,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50328,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,690,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135994,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18103,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30834,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86911112,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126721008,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161697,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23285330,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12907,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8965,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8630,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50063,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1109658,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1521817,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11830571,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288236,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64459,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46911,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48578,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120179056,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17082222,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70882,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4059661,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,584385,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122873,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34168,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39410060,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2812783,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,748,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222259024,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64723520,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3321640,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38829584,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6137931,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3181773,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5306943,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6040208,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13129,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18893280,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36581184,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5319,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24002,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11415,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,325290528,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102384392,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122477,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6445410,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16413900,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25335,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3222273,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1002537,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15635,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187338,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99644,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127809624,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5058053,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187782,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2689415,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5542053,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23991,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5818852,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33209,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18514,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22809248,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9504,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114329264,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2631107,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101480,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6238921,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7366251,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29654,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25019,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37810,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98705,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,471,"CACM, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33856,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2947,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89590,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,469171,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,633782,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18087780,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155793360,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8508855,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,757330,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,492,"Europe EU, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17262,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,492,"Europe EU, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144773,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2594,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2647315,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52840,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,558881,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1241748,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15343,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89250,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19793744,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48576588,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29137,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323629,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5991584,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7512,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29479092,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5083091,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326640,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1713734,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39102,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37207,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4246377,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3125793,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50805172,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32465012,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5275,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357970,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245342,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139395,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213740,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31108,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47219,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1052128,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3465474,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1241628,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100171,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3565686,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8189403,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66451,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,393155,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1898171,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2115299,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,617927,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43757,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11542461,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10541268,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5491,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55734,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32744072,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42248952,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28286,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13225,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173106,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80888,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46116,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50442,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118034120,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20605408,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,399552,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102393216,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49459060,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4745415,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11877927,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3984884,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16715,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83422792,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12299638,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2547646,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394229,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,720,Fmr Dem. Yemen,YMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4283,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,720,Fmr Dem. Yemen,YMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9409515,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2766166,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10011730,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9788,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5847,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15817654,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9956658,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18153912,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13926088,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237011,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136139,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31218910,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85114520,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21653668,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15505,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13721,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14938847,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27826620,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98828,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3513020,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19037096,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4160834,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1103,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3478433,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40490640,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1411529,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59096644,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145946256,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115114608,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7270350,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53571,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305421,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207642608,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,492553088,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2001332,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,677154,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42753,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607186,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10320944,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6325297,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104264,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11063,,,0
+H0,1990,1990,1990,0,0,1,Import,144,Sri Lanka,LKA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1589624,,,0
+H0,1990,1990,1990,0,0,2,Export,144,Sri Lanka,LKA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75250880,,,0
+H0,1990,1990,1990,0,0,3,Re-Export,144,Sri Lanka,LKA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335234,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87703183360,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55632228352,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1659251,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13763,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3590586,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4562567,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,854461952,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,577149504,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11626134,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,406304800,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56224088,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105739848,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1986,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,544151,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,479850880,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170904624,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192330080,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147463584,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,731044544,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395570336,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4667947,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2464839,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11356173,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13037682,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17530986,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19435708,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137683,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1549111,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2735540480,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1676046848,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81680,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9695257,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125643,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9146,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7255993,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7126991,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,957584960,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182847648,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288091,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30378,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15959,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52706,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117640,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116009,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432449,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39207208,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17779936,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1049730,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,591,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3250792,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460704,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99786,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314896416,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33545860,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,436822944,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353196352,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7373296,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13980612,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3577989,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4132886,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19413204,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,734605,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10881415,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2151722,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6730885,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1035072,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,312389440,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159222640,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,742108544,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302913056,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127413,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143039312,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123317488,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96172,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158324,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97226520,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13921600,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27098300,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18446652,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1080,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69921,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10817124,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25589044,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80160192,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,301581120,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18736002,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55334696,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87954024,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56323920,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12689909,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6962782,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,701009088,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302795840,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21002,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250408,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40200968,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46082664,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100119064,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30117624,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5520135,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8665933,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23226008,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13497713,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1779059,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7021372,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22047212,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,827864,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1295065,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24835,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,416979,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649457536,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,236387008,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12861624320,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11565871104,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8016719,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10352351,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,457450,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1108273,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,362770,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,875503,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34149296,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9041938,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2463928,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2476291,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86410504,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67168968,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14393016320,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7453555200,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28903988,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7459230,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3231103,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114904752,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3003,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18298,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207468976,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421510112,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1332675,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3995,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260001,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34955,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54708,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17974192,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5872500,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16592247,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77319904,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13636872,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4219184,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,721473,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1071091,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3802402,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25710760,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25066416,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274543648,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186195408,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70210184,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42268840,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81009712,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29583588,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193652416,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111657280,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,892268928,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283548928,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,457595040,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81724848,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,620796224,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186739392,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192203488,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168141088,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8909414400,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5953215488,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169202912,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65640004,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1650739,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4098085,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3887629312,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,634306496,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2268360,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28581192,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24682036,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16808412,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19341086,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5087256,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,625716352,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172633216,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79215152,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42753584,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8717,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83052,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4274695,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46964660,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25602944,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192683664,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1166307712,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66523084,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16435212,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,694395,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13511488,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11608384,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6025307,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1452736,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210817504,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32663922,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27592,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40233,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5946000,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14532213,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4810682,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28966226,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155310,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18687378,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45621040,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66274268,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7898605,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3810503,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1421725056,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,580023296,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,809288448,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130217904,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15427,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118335,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,426970496,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,655529408,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20514616,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16648882,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,385417,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7477098,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1318764,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,825101,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3249421824,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2622479360,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3068152,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4327901,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235496,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1290738,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28004654,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2916769,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1578608,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22826,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75593488,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22824388,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13802160,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8580336,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21993916,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2627521,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1549648896,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96757520,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,361101984,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,303615104,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120478792,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61004716,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47071244,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175495712,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,587110,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2968068,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91862408,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8484549,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50851256,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27585686,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66290892,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28431224,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1171,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166683904,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66626176,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2192212992,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3369286656,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13462549,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,968841,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,956666,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20023248,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189625,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19245872,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93558640,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27686036,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2087791,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,803700,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34432,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8180,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45516,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50097,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91016,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123786,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3077505,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206207,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7701346,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2351824,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43192,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1033782,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,559706368,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342648608,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43887640,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55309884,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11868291,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3385853,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11198408,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4345864,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,280599776,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115478880,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261062320,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148127312,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4869093,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1167249,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,704336,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9099709,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,433356832,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119295792,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33668936,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6232660,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,720,Fmr Dem. Yemen,YMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,688167,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,720,Fmr Dem. Yemen,YMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1567100,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5174794,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3370676,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6515870,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108265,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1586225664,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,533580096,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1281858816,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,902558016,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24150986,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58328472,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274055424,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135771120,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25019934,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11231995,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9170797,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2834285,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214573776,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93420928,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103875088,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161593488,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246511472,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,308043264,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27799,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4489,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26494878,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1193494,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1324244608,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,380990624,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119031848,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152397280,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6277425152,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5000593920,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7837689,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8472337,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,356038,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,980535104,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336282,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88832576,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7327394816,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3245718528,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41691,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1024996,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5437591,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5751013,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29900434,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26289308,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199655776,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168227104,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10968,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15636,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,989550,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4101168,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141339728,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88205840,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390316,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2487243,,,0
+H0,1990,1990,1990,0,0,1,Import,724,Spain,ESP,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245288784,,,0
+H0,1990,1990,1990,0,0,2,Export,724,Spain,ESP,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102610704,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113398595584,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89616056320,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251848,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3000635,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,463378,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1335671,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,987503168,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1010499712,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15556666,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,494601280,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104361664,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57316548,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1340163,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2184758,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4440306,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,585766,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,816114496,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,956775744,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287982848,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355963520,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1012362304,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,719894912,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98677656,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113655912,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5546377,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18901036,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58245332,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9876094,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2549693,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,586083,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,297994,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1927470,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3866393088,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2774695424,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29831454,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23777586,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164861,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10434458,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23591554,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55080,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2268953,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1116939776,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,836844800,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10373875,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2438830,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5109,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1403,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2981,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11128879,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9753952,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80238,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1071186,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141238080,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30223868,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1457094,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201927,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6882538,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,855025,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11203374,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8253588,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2547014,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,887076,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,316270048,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15609402,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,637288320,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,433907968,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32529,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5600781,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14267248,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40701248,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15372724,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,552443,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23258192,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6508539,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5766759,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,441994,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,417425536,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,464974272,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2241047808,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,850496704,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,236066128,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288329280,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8905,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1672031,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33159652,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10138884,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30777140,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10453565,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61994,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100760264,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38047956,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25604696,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46041072,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95822304,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395918496,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12184866,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84225432,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176087312,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250205632,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10237124,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15955512,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,911847040,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,616480064,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1910125,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1460789,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33420404,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93513792,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208961040,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93628960,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12684048,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24874156,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16560404,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20391298,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6213904,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17100536,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87242,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4209288,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12375870,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11232164,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8994243,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1015528,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15213616,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15169317,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,417657,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155063,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,991988608,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335158592,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19523911680,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18401472512,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6774230,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5494437,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87214,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4372689,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1148617,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1416157,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58475192,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12993116,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127036,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,787169,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4993389,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3602382,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17286211584,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13809764352,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60716120,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49688416,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3829912,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186174160,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58204,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367008480,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,895876864,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1601051,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149282,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57737,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,843188,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50585,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22728372,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18756596,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33932936,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89379560,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22804644,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2391200,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1542096,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76193272,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59371368,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197468192,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,485430048,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,380418944,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167517824,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67361952,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29144464,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,695173952,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180452000,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,789231808,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157288336,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1189976576,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327740256,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,318045824,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,610061568,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10321417216,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8152583168,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223337152,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68588696,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4373523,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40265308,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3793845248,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1232829056,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9917730,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4328323,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15521160,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55988464,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25245052,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30973344,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3465587,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,516469,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,968038272,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,456711616,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,433501,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86552752,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158220,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,478782,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2911063,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,362649,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7064982,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126790752,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4814956,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8414745,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1050780,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3010224,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1167964288,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169453552,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62006952,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18076148,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17620188,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16425222,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17374482,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5273362,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10125437,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262245,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,505363648,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205641872,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139482,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56000,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8249909,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11720726,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11806208,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102358600,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1289471,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18604880,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72043168,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45642736,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25802682,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12484342,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1018341248,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,600144576,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,729531392,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335700160,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13663,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387002,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1979785,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1291599,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182363,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228223,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,585393472,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,742939968,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41435960,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6020421,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1864329,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14839588,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,694,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2008553,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1865285,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4889775104,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3295934976,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23975392,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44970896,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1734522,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24353608,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7634917,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4265299,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55735,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109000368,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39752668,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18673984,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38410164,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1371944,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1830102,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1054844416,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78507296,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,642800384,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,558626816,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31916,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7191,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,738,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146765008,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58626656,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75597168,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73070440,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2622905,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261199,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34112276,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31593978,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142363824,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284397728,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107931472,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62566936,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322843744,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,436861632,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3308947968,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7485704192,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38268832,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4533389,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1761059,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36840432,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,677578,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39846184,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123366840,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74350344,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1437864192,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,379254496,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1599609,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2282842,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11923,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39985,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8366,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120318,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182456,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260032,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334225,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100709,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,891476,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1138655,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56000,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,445050,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1210200704,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,480942848,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32079194,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51485020,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,529368,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,881545,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19550116,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3111777,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,470001600,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215763120,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322765568,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460757376,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61144776,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68345376,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76199200,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12792733,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52665292,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196183568,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283973,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10970,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,730330560,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229335680,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35878300,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8340908,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4271199,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5083792,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20665932,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,503041,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1413233024,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,797355456,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1686048128,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,998473984,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274025632,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70788784,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5624319,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,713313,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,522632064,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249600080,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6839435,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20919936,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26599,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12250,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39732856,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5867469,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47653768,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199784816,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266649408,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335299168,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,399230336,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,616373888,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10853772,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2071373,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39691,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31192,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122134000,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4255407,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129520000,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45578072,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8671426,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9559131,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227562912,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287894048,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8812314624,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7160827392,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11904759,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4111233,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12528,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3850042,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16682,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42622816,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7526539776,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3799608320,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5776382,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6643521,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6912439,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62458620,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188537888,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37108468,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,687189,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169412736,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246962272,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,347434,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23685,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90331,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40087,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1325590,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16711020,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3510,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1644528,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2636891,,,0
+H0,1995,1995,1995,0,0,1,Import,724,Spain,ESP,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38406520,,,0
+H0,1995,1995,1995,0,0,2,Export,724,Spain,ESP,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14107587,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,582819008,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,482677632,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7248575,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55654,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109301,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,615,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,615,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2481,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4500,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1643118,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14050,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,411143,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71896,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10035641,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,732813,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66164,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36475512,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24529568,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370016,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26997,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1391,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3041563,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2622282,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55742,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3597,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107030,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3228,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4691,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3772672,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,457042,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10092,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3320127,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147042,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147042,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,754660,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13910,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21332,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145794,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21969,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,530341,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11829,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11829,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16898,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2356352,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8160798,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1348,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,567603,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,800432,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201081,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5611312,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82346,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5112,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14714,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11741,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,622417,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197245,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3970516,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,995130,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,384212,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3182,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3182,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9725,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13024585,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,492608,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2625,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,658472,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8609,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95912,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414341,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2023783,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12401303,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28918212,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1516,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1259956,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54886,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11649,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223836,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6367646,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1148533,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1963201,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5476227,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115538712,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132829232,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,651492,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14806324,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24136024,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63203,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144492,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421909,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5928,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2432431,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118480280,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,679,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10285487,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43485,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13412,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93777,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12275,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37722,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5823636,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11539,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1541408,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,733384,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17945,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3423650,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,966482,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67503,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2277371,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8129,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2600800,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23304,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97745,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,310983,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42925624,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10755804,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22165,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23964,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112377,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38176,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5801918,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10589187,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20753,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246943232,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106184288,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5263480,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95370,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17413964,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16216,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6799,,,0
+H0,1995,1995,1995,0,0,1,Import,740,Suriname,SUR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211784,,,0
+H0,1995,1995,1995,0,0,2,Export,740,Suriname,SUR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68452,,,0
+H0,1995,1995,1995,0,0,3,Re-Export,740,Suriname,SUR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32381,,,0

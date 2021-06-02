@@ -1,0 +1,291 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20121640960,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20962574336,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18745,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107470,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18571146,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61059912,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5820516,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19774380,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132432,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121775280,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48474192,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91515200,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3746505,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243578,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,593955,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24953,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197757,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3516822,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98400480,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3258,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1613113,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,231400224,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237450736,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29895,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,782188,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6673,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135093984,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,253973248,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9040,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4175946240,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5484101120,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83791,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1204610,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29492016,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5279983,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30363,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3145,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2198803,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64195,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59330,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,775272,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273482880,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81735184,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2005747,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4644533,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7548228,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37937,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,513752352,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1475089664,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607845056,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285730784,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50915768,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233383584,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14146,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30729,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85130,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,885257,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,317337,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4915477,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3217529,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27098004,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,502679,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415724,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6997884,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65224076,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58173,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21939204,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12944368,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,397544,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145436,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97660824,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107497008,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2737,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4725850,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,895461,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57436748,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100807656,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86282112,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49267,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15949167,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149316,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99262,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1092294,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2885311,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110350848,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13871258,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1039993664,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,318491872,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,854549,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36341,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2326825,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11249,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1250606080,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649842944,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2556622,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1133180,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12001015,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79941904,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,466476,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,725886,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1408003,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22558718,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,412507,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17044,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6249,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6920905,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94830,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6983690,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75837040,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288957216,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12599983,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2334347,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264451,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68906000,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167114816,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374129,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,509562944,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71223512,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11918364,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62139256,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59487368,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1258993024,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,736450048,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21884462,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6861239,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68795,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12163900,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,710770944,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,457281440,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90435,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111541,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43958784,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,580479,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51810988,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,362074528,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133143328,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11402,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16423764,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41097,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13566639,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1145087,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111317,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2904068,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26506824,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6117575,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,896166,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4765042,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,479673,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103994,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9239,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1446039,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,549,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98832912,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259264480,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12604,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,575658,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14538432,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52372,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281630,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14236170,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376390944,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144369296,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228878336,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207730512,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14355,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,623,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27960,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6994336,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45137384,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1050,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16812756,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,516,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11923813,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122596,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128047,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210764528,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1191246976,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9339271,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6984376,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29054594,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9610836,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,677118,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1111373,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27718,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42307428,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4689129,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51246392,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35918424,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40000,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14765736,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61853344,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2350317,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32171916,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13760,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139830384,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,631321472,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33846428,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,275549376,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12606873,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22661112,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24094344,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4341639,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54572392,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85585064,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2243,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3870709,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11516914,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19864956,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27617392,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85621936,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90200280,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,819,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,346353,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1180,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336170,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16534272,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24518928,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116889,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12612621,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34493,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62320704,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153159008,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109056400,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143592016,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11799006,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,482954,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3130078,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8402916,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3989841,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27177068,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14999,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124511352,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339961472,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2140478,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4149359,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,929686528,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,714027648,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49308,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111949,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5099,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2106503,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,252603744,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23732036,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,236036752,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190482784,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371348,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37314860,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51761484,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124378880,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1402720,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3196446,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6322146,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143347,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16315585,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2546100,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26161548,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10892838,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155386464,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20714,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,928184,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7818,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106687,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13262452,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,809479,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55761,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1139,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1329516,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228522816,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,412850208,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,310110464,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4528199,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4206580992,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1803371008,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2211,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110190,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46230,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,286878624,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,662789952,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206178,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46274404,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,377718080,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,879,"Western Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,312975,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24813,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7295815,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,325668,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175575,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31132,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65717,,,0
+H0,1995,1995,1995,0,0,1,Import,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306112576,,,0
+H0,1995,1995,1995,0,0,2,Export,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12757712,,,0
