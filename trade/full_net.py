@@ -2,31 +2,27 @@ import networkx as nx
 import pandas as pd
 import matplotlib.pyplot as plt    
 
-df = pd.read_csv('datasets/2000-2020/2000-2020F.csv')
+df = pd.read_csv('APIdata/data.csv')
 
-yeard = 2000
+for yeard in range(1990,2021,5):
 
-#for yeard in range(1990,1995,5):
+	print(yeard)
 
-print(yeard)
+	importC = df['Trade Flow'] == 'Export'
+	dfImport = df[importC]
 
-importC = df['Trade Flow'] == 'Export'
-dfImport = df[importC]
+	year = dfImport['Year'] == yeard
+	dfYear = dfImport[year]
 
-year = dfImport['Year'] == yeard
-dfYear = dfImport[year]
+	GD = nx.from_pandas_edgelist(dfYear, source = 'Reporter', target = 'Partner', edge_attr = 'Trade Value (US$)', create_using=nx.DiGraph())
+	GD.is_directed()
 
-GD = nx.from_pandas_edgelist(dfYear, source = 'Reporter', target = 'Partner', edge_attr = 'Trade Value (US$)', create_using=nx.DiGraph())
-GD.is_directed()
+	print("W degree:"+str(GD.degree(weight='Trade Value (US$)')))
 
-print("W degree:"+str(GD.degree(weight='Trade Value (US$)')))
+	nx.write_gexf(GD,"Mreze/"+str(yeard)+".gexf")
 
-nx.write_gexf(GD,"datasets/2000-2020/Grafovi/streing/"+str(yeard)+".gexf")
-
-#print(GD.size())
-#print(GD.size('Trade Value (US$)'))
-
-
+print(GD.size())
+print(GD.size('Trade Value (US$)'))
 
 # import community as community_louvain
 # partition = community_louvain.best_partition(G)
@@ -47,15 +43,15 @@ nx.write_gexf(GD,"datasets/2000-2020/Grafovi/streing/"+str(yeard)+".gexf")
 
 #net.show(name)
 
-#import pydot
-#pos = nx.spring_layout(GD, k=2, iterations=100)
-#betCent = nx.betweenness_centrality(GD, normalized=True, endpoints=True)
-#node_color = [20000.0 * GD.degree(v) for v in GD]
-#node_size =  [v * 10000 for v in betCent.values()]
-#plt.figure(figsize=(20,20))
-#nx.draw_networkx(GD, pos=pos, with_labels=True,
-#                 node_color=node_color,
-#                 node_size=node_size)
+import pydot
+pos = nx.spring_layout(GD, k=2, iterations=100)
+betCent = nx.betweenness_centrality(GD, normalized=True, endpoints=True)
+node_color = [20000.0 * GD.degree(v) for v in GD]
+node_size =  [v * 10000 for v in betCent.values()]
+plt.figure(figsize=(20,20))
+nx.draw_networkx(GD, pos=pos, with_labels=True,
+                node_color=node_color,
+                node_size=node_size)
 #communities
 # from networkx.algorithms import community
 # communities = community.greedy_modularity_communities(GD)
@@ -69,7 +65,7 @@ nx.write_gexf(GD,"datasets/2000-2020/Grafovi/streing/"+str(yeard)+".gexf")
 # # Now you can add modularity information like we did the other metrics
 # nx.set_node_attributes(G, modularity_dict, 'modularity')
 #communities
-#print(nx.density(GD))
+print(nx.density(GD))
 #from networkx.algorithms.centrality import *
 #print(degree_centrality(GD))
 
